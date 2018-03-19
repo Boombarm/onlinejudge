@@ -1,3 +1,15 @@
+# author : Teerapat Phokhonwong
+# Onlinejudge: URI Online Judge
+# Categories:
+# Problem:
+# Link:
+# Timelimit: 1 sec
+# Status: TLE
+# Submission:
+# Runtime: 
+# Solution:
+# Note:
+
 N = M = 0
 MAP = []
 start = None
