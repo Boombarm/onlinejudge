@@ -17,9 +17,6 @@ class Point:
         self.t = t
     
     def equals(self,p):
-        # print("selfX",self.x,"PX", p.x)
-        # print("selfY",self.y,"PY",p.y)
-        # print("Chk ",self.x == p.x and self.y == p.y)
         return self.x == p.x and self.y == p.y 
 
     
@@ -47,8 +44,7 @@ def BFS(Q):
                 if MAP[pY][pX] == 0 :
                     nextPoint = Point(pY,pX,t+1)
                     Q.append(nextPoint)
-    
-    print("End loop")
+
     return False
     
     
@@ -73,6 +69,7 @@ while(t > 0):
                 MAP[y][x] = 1
                 start = Point(y,x)
             elif MAP[y][x] == 'E' :
+                MAP[y][x] = 0
                 end = Point(y,x);
             elif MAP[y][x] == 'F' :
                 MAP[y][x] = 1
@@ -86,7 +83,7 @@ while(t > 0):
     escape = (abs(start.x - start.x) + abs(start.y - start.y))
     dead = (abs(fire.x - end.x) + abs(fire.y - end.y))
     if escape >= dead :
-        print("SSSSSS N")
+        print("N")
         continue
     
     Q.append(start)
