@@ -4,7 +4,7 @@
 # Problem: TLG - The Lead Game
 # Link: https://www.codechef.com/problems/TLG
 # Timelimit: 1 sec
-# Status: AC
+# Status: Accepted
 # Submission: 2018-03-16 19:14:07
 # MEM: 27.1M
 # Runtime: 0.03
