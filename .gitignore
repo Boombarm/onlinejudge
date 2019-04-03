@@ -100,3 +100,4 @@ ENV/
 *.xml
 *.iml
 .idea
+src/uri/Trying
