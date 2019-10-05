@@ -7,6 +7,7 @@
 # Status: Accepted
 # Submission: 2018-03-16 19:14:07
 # MEM: 27.1M
+# Language: Python3
 # Runtime: 0.03
 # Solution:
 # Note:
