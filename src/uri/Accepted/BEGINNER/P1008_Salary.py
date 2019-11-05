@@ -1,0 +1,5 @@
+number = int(input())
+salary = int(input())
+mult = float(input())
+print("NUMBER = %d" % number)
+print("SALARY = U$ %.2f" % (salary * mult))
