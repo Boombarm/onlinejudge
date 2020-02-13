@@ -105,7 +105,8 @@ src/myfuntion/TEST.py
 src/myfuntion/PingNetwork.py
 src/zoj/Trying
 src/test
-src/app_01
+src/app
+src/app/*
 src/pykey_snap
 .vs
 src/codeforces
