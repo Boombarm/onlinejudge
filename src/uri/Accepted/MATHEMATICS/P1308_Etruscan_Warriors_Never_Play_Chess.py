@@ -19,7 +19,7 @@ import math
 n = int(input())
 for i in range(0,n):
     m = int(input())
-    height = int((math.sqrt(1 + 8 * m) - 1) / 2);
+    height = int((math.sqrt(1 + 8 * m) - 1) / 2)
 
     print(height)
 
