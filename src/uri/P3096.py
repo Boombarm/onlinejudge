@@ -1,4 +1,5 @@
-# length result of factorial 
+# length result of factorial
+# https://en.wikipedia.org/wiki/Factorial
 for i in range(1,1001):
     # n = int(input())
     total = 1
