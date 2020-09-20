@@ -110,3 +110,4 @@ src/app/*
 src/pykey_snap
 .vs
 src/codeforces
+.project
