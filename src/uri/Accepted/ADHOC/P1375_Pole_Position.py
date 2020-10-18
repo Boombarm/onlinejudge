@@ -1,3 +1,5 @@
+# author : Teerapat Phokhonwong
+
 if __name__ == "__main__":
     while True:
         N = int(input())

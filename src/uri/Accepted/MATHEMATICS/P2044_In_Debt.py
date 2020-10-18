@@ -1,4 +1,3 @@
-# Date: 20-09-2020
 # author : Teerapat Phokhonwong
 # Online judge: URI Online Judge
 # Categories: MATHEMATICS
