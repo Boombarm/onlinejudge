@@ -81,6 +81,7 @@ def return_utf(s):
     except AttributeError:
         return s
 
+
 if __name__ == '__main__':
     answer = thai_baht_conversion(85.75)
     print(answer)
