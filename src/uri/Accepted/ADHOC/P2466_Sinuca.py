@@ -1,3 +1,4 @@
+# Author: Teerapat Phokhonwong
 # PROBLEM: 2466 - Sinuca
 # LINK: https://www.urionlinejudge.com.br/judge/en/problems/view/2466
 # RUNTIME: 0.052s
