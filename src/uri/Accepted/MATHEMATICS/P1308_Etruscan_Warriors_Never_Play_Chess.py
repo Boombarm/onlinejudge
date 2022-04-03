@@ -22,24 +22,3 @@ for i in range(0,n):
     height = int((math.sqrt(1 + 8 * m) - 1) / 2)
 
     print(height)
-
-
-
-# def find(n):
-#     sum = 1
-#     m = 2
-#     i = 1
-#     for k in range( 1, n+1 ):
-#         if k == sum+m:
-#             sum+=m
-#             m+=1
-#             i+=1
-#     return i
-#
-# table = {}
-# n = int(input())
-# for i in range(0, n):
-#     m = int(input())
-#     if table.get(m) == None:
-#         table[m] = find(m)
-#     print(table[m])
