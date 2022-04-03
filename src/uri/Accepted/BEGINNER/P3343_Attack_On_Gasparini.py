@@ -6,6 +6,7 @@
 # Memory: -
 # Submission: 4/3/22, 10:05:26 PM
 # Author: Teerapat Phokhonwong
+# Note: titans พังกำแพง เช็คกำแพงตั้งแต่จุดเริ่มต้นของ titans ไปจนกำแพงสุดท้ายที่สามารถจะป้องกันได้
 
 in_size, wall_height = map(int, input().split())
 wall_remain = [wall_height]
