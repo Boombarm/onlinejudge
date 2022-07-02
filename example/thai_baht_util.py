@@ -82,6 +82,20 @@ def return_utf(s):
         return s
 
 
+def arabic_to_thai_number(arabic: float):
+    arabic = str(arabic)
+    arabic_number = "0123456789."
+    thai_number = "๐๑๒๓๔๕๖๗๘๙."
+    result = ""
+    for c in arabic:
+        index = arabic_number.find(c)
+        if index != -1:
+            result += thai_number[index]
+        else:
+            return 'invalid input'
+    return result
+
+
 if __name__ == '__main__':
     answer = thai_baht_conversion(85.75)
     print(answer)
