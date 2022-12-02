@@ -111,3 +111,6 @@ src/pykey_snap
 .vs
 src/codeforces
 .project
+
+src/uri_beecrowd/trying
+src/base_function
