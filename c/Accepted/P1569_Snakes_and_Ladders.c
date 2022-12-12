@@ -15,9 +15,9 @@
 #include <stdio.h>
 
 
-    int i,t, players , totalSnakeLadder, dice, start, end , p , roll;
-    int playerIndex[1000005];
-    int map[110];
+int i,t, players , totalSnakeLadder, dice, start, end , p , roll;
+int playerIndex[1000005];
+int map[110];
 
 int main(void) {
 	scanf("%d", &t);

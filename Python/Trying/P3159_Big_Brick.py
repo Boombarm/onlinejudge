@@ -73,7 +73,9 @@ for i in range(n):
         number_key =  get_number_key(c)
         if ord(c) >= 97 and number_key == old_number_key:
             print('*', end='')
-        old_number_key = number_key
+            old_number_key = number_key
+        else:
+            print('*', end='')
         
         print(keyboard[c], end='')
     print()
