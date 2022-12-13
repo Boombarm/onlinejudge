@@ -1,10 +1,10 @@
-
 # author : Teerapat Phokhonwong
 # Problem: 3405 - Factorial
 # Link: https://www.beecrowd.com.br/judge/en/problems/view/3405
 # Answer: Accepted
 # Submission: 12/12/22, 3:25:23 PM
 # Runtime: 0.000s
+# Note: หาจำนวนเลข 0 ที่อยู่ในส่วนท้ายผลลัพธ์ของ Factorial
 
 def findTrailingZeros(n):
     # Negative Number Edge Case
