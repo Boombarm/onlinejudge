@@ -3,5 +3,20 @@
     // Hover to view descriptions of existing attributes.
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
-    "configurations": []
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch P3348_Game_of_Spiders",
+            "request": "launch",
+            "mainClass": "P3348_Game_of_Spiders",
+            "projectName": "onlinejudge_4b8e6069"
+        },
+        {
+            "type": "java",
+            "name": "Launch Template",
+            "request": "launch",
+            "mainClass": "Template",
+            "projectName": "onlinejudge_4b8e6069"
+        }
+    ]
 }
