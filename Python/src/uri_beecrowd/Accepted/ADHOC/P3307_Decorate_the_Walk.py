@@ -1,3 +1,4 @@
+# author : Teerapat Phokhonwong
 # PROBLEM: 3307 - Decorate the Walk!
 # Link: https://www.urionlinejudge.com.br/judge/en/problems/view/3307
 # RUNTIME: 0.084s

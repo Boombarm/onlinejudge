@@ -1,3 +1,4 @@
+# author : Teerapat Phokhonwong
 # PROBLEM: 3309 - Happy are these Numbers
 # Link: https://www.beecrowd.com.br/judge/en/problems/view/3309
 # RUNTIME: 1.125s
