@@ -2,7 +2,7 @@
  * @author Teerapat Phokhonwong
  * @Onlinejudge: URI Online Judge
  * @Categories: AD-HOC
- * @Problem: 1883 - Zoeiro Keyboard
+ * @Problem: 1883 - Escape From Ayutthaya
  * @Link: https://www.urionlinejudge.com.br/judge/en/problems/view/1883
  * @Timelimit: 1 sec
  * @LANGUAGE: C++17
