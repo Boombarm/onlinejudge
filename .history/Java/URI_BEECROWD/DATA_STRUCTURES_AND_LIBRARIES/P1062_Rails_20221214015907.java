@@ -80,3 +80,21 @@ public class P1062_Rails {
     }
 
 }
+
+//    static void printStack() {
+//        for (int i = 0; i <= top; i++) {
+//            System.out.print(station[i] + " ");
+//        }
+//    }
+//
+//                        System.out.println("A: ");
+//                        for (int k = 0; k < b.length; k++) {
+//                            System.out.print(a[k] + " ");
+//                        }
+//                        System.out.print("\nStation: ");
+//                        printStack();
+//                        System.out.print("\nB: ");
+//                        for (int k = 0; k < b.length; k++) {
+//                            System.out.print(b[k] + " ");
+//                        }
+//                        System.out.println("");

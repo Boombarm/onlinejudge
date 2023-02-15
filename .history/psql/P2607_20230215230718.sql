@@ -1,0 +1,1 @@
+select city from providers ORDER BY city
