@@ -1,7 +1,12 @@
-# https://judge.beecrowd.com/en/problems/view/3478
-# 3478 - Geiapan
-# group node
-
+# author : Teerapat Phokhonwong
+# Problem: 3478 - Geiapan
+# Categories: AD-HOC
+# Link: https://judge.beecrowd.com/en/problems/view/3478
+# Answer: Accepted
+# Submission: 3/30/24, 7:39:36 PM
+# Runtime: 0.674s
+# FILE SIZE: 1.11 KB
+# Note: จัดกลุ่ม nodes
 
 class UnionFind:
     def __init__(self, n):
