@@ -2,207 +2,207 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 
 
 - [X] bee 1000 - Hello World!
-- [ ] bee 1001 - Extremely Basic
-- [ ] bee 1002 - Area of a Circle
-- [ ] bee 1003 - Simple Sum
-- [ ] bee 1004 - Simple Product
-- [ ] bee 1005 - Average 1
-- [ ] bee 1006 - Average 2
-- [ ] bee 1007 - Difference
-- [ ] bee 1008 - Salary
-- [ ] bee 1009 - Salary with Bonus
-- [ ] bee 1010 - Simple Calculate
-- [ ] bee 1011 - Sphere
-- [ ] bee 1012 - Area
-- [ ] bee 1013 - The Greatest
-- [ ] bee 1014 - Consumption
-- [ ] bee 1015 - Distance Between Two Points
-- [ ] bee 1016 - Distance
-- [ ] bee 1017 - Fuel Spent
-- [ ] bee 1018 - Banknotes
-- [ ] bee 1019 - Time Conversion
-- [ ] bee 1020 - Age in Days
-- [ ] bee 1021 - Banknotes and Coins
-- [ ] bee 1022 - TDA Rational
-- [ ] bee 1023 - Drought
-- [ ] bee 1024 - Encryption
-- [ ] bee 1025 - Where is the Marble?
-- [ ] bee 1026 - To Carry or not to Carry
+- [X] bee 1001 - Extremely Basic
+- [X] bee 1002 - Area of a Circle
+- [X] bee 1003 - Simple Sum
+- [X] bee 1004 - Simple Product
+- [X] bee 1005 - Average 1
+- [X] bee 1006 - Average 2
+- [X] bee 1007 - Difference
+- [X] bee 1008 - Salary
+- [X] bee 1009 - Salary with Bonus
+- [X] bee 1010 - Simple Calculate
+- [X] bee 1011 - Sphere
+- [X] bee 1012 - Area
+- [X] bee 1013 - The Greatest
+- [X] bee 1014 - Consumption
+- [X] bee 1015 - Distance Between Two Points
+- [X] bee 1016 - Distance
+- [X] bee 1017 - Fuel Spent
+- [X] bee 1018 - Banknotes
+- [X] bee 1019 - Time Conversion
+- [X] bee 1020 - Age in Days
+- [X] bee 1021 - Banknotes and Coins
+- [X] bee 1022 - TDA Rational
+- [X] bee 1023 - Drought
+- [X] bee 1024 - Encryption
+- [X] bee 1025 - Where is the Marble?
+- [X] bee 1026 - To Carry or not to Carry
 - [ ] bee 1027 - Critical Wave
-- [ ] bee 1028 - Collectable Cards
-- [ ] bee 1029 - Fibonacci, How Many Calls?
-- [ ] bee 1030 - Flavious Josephus Legend
-- [ ] bee 1031 - Power Crisis
-- [ ] bee 1032 - Joseph’s Cousin
-- [ ] bee 1033 - How Many Calls?
-- [ ] bee 1034 - Ice Statues Festival
-- [ ] bee 1035 - Selection Test 1
-- [ ] bee 1036 - Bhaskara's Formula
-- [ ] bee 1037 - Interval
-- [ ] bee 1038 - Snack
-- [ ] bee 1039 - Fire Flowers
-- [ ] bee 1040 - Average 3
-- [ ] bee 1041 - Coordinates of a Point
-- [ ] bee 1042 - Simple Sort
-- [ ] bee 1043 - Triangle
-- [ ] bee 1044 - Multiples
-- [ ] bee 1045 - Triangle Types
-- [ ] bee 1046 - Game Time
-- [ ] bee 1047 - Game Time with Minutes
-- [ ] URI 1048 - Salary Increase
-- [ ] bee 1049 - Animal
-- [ ] bee 1050 - DDD
-- [ ] bee 1051 - Taxes
-- [ ] bee 1052 - Month
+- [X] bee 1028 - Collectable Cards
+- [X] bee 1029 - Fibonacci, How Many Calls?
+- [X] bee 1030 - Flavious Josephus Legend
+- [X] bee 1031 - Power Crisis
+- [X] bee 1032 - Joseph’s Cousin
+- [X] bee 1033 - How Many Calls?
+- [X] bee 1034 - Ice Statues Festival
+- [X] bee 1035 - Selection Test 1
+- [X] bee 1036 - Bhaskara's Formula
+- [X] bee 1037 - Interval
+- [X] bee 1038 - Snack
+- [X] bee 1039 - Fire Flowers
+- [X] bee 1040 - Average 3
+- [X] bee 1041 - Coordinates of a Point
+- [X] bee 1042 - Simple Sort
+- [X] bee 1043 - Triangle
+- [X] bee 1044 - Multiples
+- [X] bee 1045 - Triangle Types
+- [X] bee 1046 - Game Time
+- [X] bee 1047 - Game Time with Minutes
+- [X] URI 1048 - Salary Increase
+- [X] bee 1049 - Animal
+- [X] bee 1050 - DDD
+- [X] bee 1051 - Taxes
+- [X] bee 1052 - Month
 - [ ] bee 1053 - Continuous Drawing
 - [ ] bee 1054 - Dynamic Frog
-- [ ] bee 1055 - Elegant Permuted Sum
+- [X] bee 1055 - Elegant Permuted Sum
 - [ ] bee 1056 - Factors and Multiples
 - [ ] bee 1057 - Going Together
 - [ ] bee 1058 - Independent Attacking Zones
-- [ ] bee 1059 - Even Numbers
-- [ ] bee 1060 - Positive Numbers
-- [ ] bee 1061 - Event Time
-- [ ] bee 1062 - Rails
-- [ ] bee 1063 - Rails Again... Tracing Movements
-- [ ] bee 1064 - Positives and Average
-- [ ] bee 1065 - Even Between five Numbers
-- [ ] bee 1066 - Even, Odd, Positive and Negative
-- [ ] bee 1067 - Odd Numbers
-- [ ] bee 1068 - Parenthesis Balance I
-- [ ] bee 1069 - Diamonds and Sand
-- [ ] bee 1070 - Six Odd Numbers
-- [ ] bee 1071 - Sum of Consecutive Odd Numbers I
+- [X] bee 1059 - Even Numbers
+- [X] bee 1060 - Positive Numbers
+- [X] bee 1061 - Event Time
+- [X] bee 1062 - Rails
+- [X] bee 1063 - Rails Again... Tracing Movements
+- [X] bee 1064 - Positives and Average
+- [X] bee 1065 - Even Between five Numbers
+- [X] bee 1066 - Even, Odd, Positive and Negative
+- [X] bee 1067 - Odd Numbers
+- [X] bee 1068 - Parenthesis Balance I
+- [X] bee 1069 - Diamonds and Sand
+- [X] bee 1070 - Six Odd Numbers
+- [X] bee 1071 - Sum of Consecutive Odd Numbers I
 - [ ] bee 1072 - Interval 2
 - [ ] bee 1073 - Even Square
 - [ ] bee 1074 - Even or Odd
-- [ ] bee 1075 - Remaining 2
-- [ ] bee 1076 - Design Labirints
-- [ ] bee 1077 - Infix to Posfix
-- [ ] bee 1078 - Multiplication Table
-- [ ] bee 1079 - Weighted Averages
-- [ ] bee 1080 - Highest and Position
-- [ ] bee 1081 - DFSr - Depth Hierarchy
-- [ ] bee 1082 - Connected Components
-- [ ] bee 1083 - LEXSIM - Sintatic and Lexical Avaliator
-- [ ] bee 1084 - Erasing and Winning
+- [X] bee 1075 - Remaining 2
+- [X] bee 1076 - Design Labirints
+- [X] bee 1077 - Infix to Posfix
+- [X] bee 1078 - Multiplication Table
+- [X] bee 1079 - Weighted Averages
+- [X] bee 1080 - Highest and Position
+- [X] bee 1081 - DFSr - Depth Hierarchy
+- [X] bee 1082 - Connected Components
+- [X] bee 1083 - LEXSIM - Sintatic and Lexical Avaliator
+- [X] bee 1084 - Erasing and Winning
 - [ ] bee 1085 - Babel
 - [ ] bee 1086 - The Club Ballroom
-- [ ] bee 1087 - Queen
-- [ ] bee 1088 - Bubbles and Buckets
-- [ ] bee 1089 - Musical Loop
+- [X] bee 1087 - Queen
+- [X] bee 1088 - Bubbles and Buckets
+- [X] bee 1089 - Musical Loop
 - [ ] bee 1090 - Set
-- [ ] bee 1091 - Division of Nlogonia
+- [X] bee 1091 - Division of Nlogonia
 - [ ] bee 1092 - Longest Increasing Sub-Sequence
 - [ ] bee 1093 - Vampires
-- [ ] bee 1094 - Experiments
-- [ ] bee 1095 - Sequence IJ 1
-- [ ] bee 1096 - Sequence IJ 2
-- [ ] bee 1097 - Sequence IJ 3
-- [ ] bee 1098 - Sequence IJ 4
-- [ ] bee 1099 - Sum of Consecutive Odd Numbers II
-- [ ] bee 1100 - Knight Moves
-- [ ] bee 1101 - Sequence of Numbers and Sum
+- [X] bee 1094 - Experiments
+- [X] bee 1095 - Sequence IJ 1
+- [X] bee 1096 - Sequence IJ 2
+- [X] bee 1097 - Sequence IJ 3
+- [X] bee 1098 - Sequence IJ 4
+- [X] bee 1099 - Sum of Consecutive Odd Numbers II
+- [X] bee 1100 - Knight Moves
+- [X] bee 1101 - Sequence of Numbers and Sum
 - [ ] bee 1102 - Deadly Atack
-- [ ] bee 1103 - Alarm Clock
-- [ ] bee 1104 - Exchanging Cards
-- [ ] bee 1105 - Sub-prime
+- [X] bee 1103 - Alarm Clock
+- [X] bee 1104 - Exchanging Cards
+- [X] bee 1105 - Sub-prime
 - [ ] bee 1106 - Dragster
-- [ ] bee 1107 - Laser Sculpture
+- [X] bee 1107 - Laser Sculpture
 - [ ] bee 1108 - Towers for Mobile Telephony
 - [ ] bee 1109 - Cheating on the Contest
-- [ ] bee 1110 - Throwing Cards Away
+- [X] bee 1110 - Throwing Cards Away
 - [ ] bee 1111 - Desrugenstein
 - [ ] bee 1112 - Schweisen
-- [ ] bee 1113 - Ascending and Descending
-- [ ] bee 1114 - Fixed Password
-- [ ] bee 1115 - Quadrant
-- [ ] bee 1116 - Dividing X by Y
-- [ ] bee 1117 - Score Validation
-- [ ] bee 1118 - Several Scores with Validation
+- [X] bee 1113 - Ascending and Descending
+- [X] bee 1114 - Fixed Password
+- [X] bee 1115 - Quadrant
+- [X] bee 1116 - Dividing X by Y
+- [X] bee 1117 - Score Validation
+- [X] bee 1118 - Several Scores with Validation
 - [ ] bee 1119 - The Dole Queue
-- [ ] bee 1120 - Contract Revision
-- [ ] bee 1121 - Sticker Collector Robots
+- [X] bee 1120 - Contract Revision
+- [X] bee 1121 - Sticker Collector Robots
 - [ ] bee 1122 - Account Book
 - [ ] bee 1123 - Route Change
-- [ ] bee 1124 - Elevator
-- [ ] bee 1125 - Formula 1
+- [X] bee 1124 - Elevator
+- [X] bee 1125 - Formula 1
 - [ ] bee 1126 - Star War
 - [ ] bee 1127 - Musical Plagiarism
-- [ ] bee 1128 - Come and Go
-- [ ] bee 1129 - Optical Reader
+- [X] bee 1128 - Come and Go
+- [X] bee 1129 - Optical Reader
 - [ ] bee 1130 - Tic-tac-toe
-- [ ] bee 1131 - Grenais
-- [ ] bee 1132 - Multiples of 13
-- [ ] bee 1133 - Rest of a Division
-- [ ] bee 1134 - Type of Fuel
+- [X] bee 1131 - Grenais
+- [X] bee 1132 - Multiples of 13
+- [X] bee 1133 - Rest of a Division
+- [X] bee 1134 - Type of Fuel
 - [ ] bee 1135 - Ants Colony
-- [ ] bee 1136 - Bingo!
+- [X] bee 1136 - Bingo!
 - [ ] bee 1137 - Cocircular Points
 - [ ] bee 1138 - Digits Count
 - [ ] bee 1139 - Eletronic Needs
-- [ ] bee 1140 - Flowers Flourish from France
+- [X] bee 1140 - Flowers Flourish from France
 - [ ] bee 1141 - Growing Strings
-- [ ] bee 1142 - Pum
-- [ ] bee 1143 - Squared and Cubic
-- [ ] bee 1144 - Logical Sequence
-- [ ] bee 1145 - Logical Sequence 2
-- [ ] bee 1146 - Growing Sequences
-- [ ] bee 1147 - Knight Scape
+- [X] bee 1142 - Pum
+- [X] bee 1143 - Squared and Cubic
+- [X] bee 1144 - Logical Sequence
+- [X] bee 1145 - Logical Sequence 2
+- [X] bee 1146 - Growing Sequences
+- [X] bee 1147 - Knight Scape
 - [ ] bee 1148 - Countries at War
-- [ ] bee 1149 - Summing Consecutive Integers
-- [ ] bee 1150 - Exceeding Z
-- [ ] bee 1151 - Easy Fibonacci
-- [ ] bee 1152 - Dark Roads
-- [ ] bee 1153 - Simple Factorial
-- [ ] bee 1154 - Ages
-- [ ] bee 1155 - S Sequence
-- [ ] bee 1156 - S Sequence II
-- [ ] bee 1157 - Divisors I
-- [ ] bee 1158 - Sum of Consecutive Odd Numbers III
-- [ ] bee 1159 - Sum of Consecutive Even Numbers
-- [ ] bee 1160 - Population Increase
-- [ ] bee 1161 - Factorial Sum
-- [ ] bee 1162 - Train Swapping
+- [X] bee 1149 - Summing Consecutive Integers
+- [X] bee 1150 - Exceeding Z
+- [X] bee 1151 - Easy Fibonacci
+- [X] bee 1152 - Dark Roads
+- [X] bee 1153 - Simple Factorial
+- [X] bee 1154 - Ages
+- [X] bee 1155 - S Sequence
+- [X] bee 1156 - S Sequence II
+- [X] bee 1157 - Divisors I
+- [X] bee 1158 - Sum of Consecutive Odd Numbers III
+- [X] bee 1159 - Sum of Consecutive Even Numbers
+- [X] bee 1160 - Population Increase
+- [X] bee 1161 - Factorial Sum
+- [X] bee 1162 - Train Swapping
 - [ ] bee 1163 - Angry Ducks
-- [ ] bee 1164 - Perfect Number
-- [ ] bee 1165 - Prime Number
-- [ ] bee 1166 - Hanoi Tower Troubles Again!
+- [X] bee 1164 - Perfect Number
+- [X] bee 1165 - Prime Number
+- [X] bee 1166 - Hanoi Tower Troubles Again!
 - [ ] bee 1167 - Summer Camp
-- [ ] BEE 1168 - LED
-- [ ] bee 1169 - Grains in a Chess Board
-- [ ] bee 1170 - Blobs
-- [ ] bee 1171 - Number Frequence
-- [ ] bee 1172 - Array Replacement I
-- [ ] bee 1173 - Array fill I
-- [ ] bee 1174 - Array Selection I
-- [ ] bee 1175 - Array change I
-- [ ] bee 1176 - Fibonacci Array
-- [ ] bee 1177 - Array Fill II
-- [ ] bee 1178 - Array Fill III
-- [ ] bee 1179 - Array Fill IV
-- [ ] bee 1180 - Lowest Number and Position
-- [ ] bee 1181 - Line in Array
-- [ ] bee 1182 - Column in Array
-- [ ] bee 1183 - Above the Main Diagonal
-- [ ] bee 1184 - Below the Main Diagonal
-- [ ] bee 1185 - Above the Secundary Diagonal
-- [ ] bee 1186 - Below the Secundary Diagonal
-- [ ] bee 1187 -Top Area
-- [ ] bee 1188 - Inferior Area
-- [ ] bee 1189 - Left Area
-- [ ] bee 1190 - Right Area
-- [ ] bee 1191 - Tree Recovery
-- [ ] bee 1192 - Paula's Mathematic Game
-- [ ] bee 1193 - Base Conversion
-- [ ] bee 1194 - Pre, In and Post
-- [ ] bee 1195 - Binary Search Tree
-- [ ] bee 1196 - WERTYU
-- [ ] bee 1197 - Back to High School Physics
-- [ ] bee 1198 - Hashmat the Brave Warrior
-- [ ] bee 1199 - Simple Base Conversion
-- [ ] bee 1200 - BST Operations I
-- [ ] bee 1201 - BST Operations II
+- [X] BEE 1168 - LED
+- [X] bee 1169 - Grains in a Chess Board
+- [X] bee 1170 - Blobs
+- [X] bee 1171 - Number Frequence
+- [X] bee 1172 - Array Replacement I
+- [X] bee 1173 - Array fill I
+- [X] bee 1174 - Array Selection I
+- [X] bee 1175 - Array change I
+- [X] bee 1176 - Fibonacci Array
+- [X] bee 1177 - Array Fill II
+- [X] bee 1178 - Array Fill III
+- [X] bee 1179 - Array Fill IV
+- [X] bee 1180 - Lowest Number and Position
+- [X] bee 1181 - Line in Array
+- [X] bee 1182 - Column in Array
+- [X] bee 1183 - Above the Main Diagonal
+- [X] bee 1184 - Below the Main Diagonal
+- [X] bee 1185 - Above the Secundary Diagonal
+- [X] bee 1186 - Below the Secundary Diagonal
+- [X] bee 1187 -Top Area
+- [X] bee 1188 - Inferior Area
+- [X] bee 1189 - Left Area
+- [X] bee 1190 - Right Area
+- [X] bee 1191 - Tree Recovery
+- [X] bee 1192 - Paula's Mathematic Game
+- [X] bee 1193 - Base Conversion
+- [X] bee 1194 - Pre, In and Post
+- [X] bee 1195 - Binary Search Tree
+- [X] bee 1196 - WERTYU
+- [X] bee 1197 - Back to High School Physics
+- [X] bee 1198 - Hashmat the Brave Warrior
+- [X] bee 1199 - Simple Base Conversion
+- [X] bee 1200 - BST Operations I
+- [X] bee 1201 - BST Operations II
 - [ ] bee 1202 - White Nights Festival
 - [ ] bee 1203 - St. Petersburg Bridges
 - [ ] bee 1204 - Myachowski, Russian Football
@@ -212,106 +212,106 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 1208 - St. Petersburg Dynasties
 - [ ] bee 1209 - St. Petersburg Parties
 - [ ] bee 1210 - Optimal Production of Great Vodka
-- [ ] bee 1211 - Economic Phonebook
-- [ ] bee 1212 - Primary Arithmetic
-- [ ] bee 1213 - Ones
-- [ ] bee 1214 - Above Average
-- [ ] bee 1215 - Andy's First Dictionary
-- [ ] bee 1216 - Getline One
-- [ ] bee 1217 - Getline Two - Fruits
-- [ ] bee 1218 - Getline Three - Shoes
-- [ ] bee 1219 - Colourful Flowers
+- [X] bee 1211 - Economic Phonebook
+- [X] bee 1212 - Primary Arithmetic
+- [X] bee 1213 - Ones
+- [X] bee 1214 - Above Average
+- [X] bee 1215 - Andy's First Dictionary
+- [X] bee 1216 - Getline One
+- [X] bee 1217 - Getline Two - Fruits
+- [X] bee 1218 - Getline Three - Shoes
+- [X] bee 1219 - Colourful Flowers
 - [ ] bee 1220 - The Trip
-- [ ] bee 1221 - Fast Prime Number
-- [ ] bee 1222 - Short Story Competition
+- [X] bee 1221 - Fast Prime Number
+- [X] bee 1222 - Short Story Competition
 - [ ] bee 1223 - Toboggan of Marbles
 - [ ] bee 1224 - Cards
-- [ ] bee 1225 - Perfect Choir
+- [X] bee 1225 - Perfect Choir
 - [ ] bee 1226 - Space Elevator
 - [ ] bee 1227 - Midnight Cowboy
-- [ ] bee 1228 - Start Grid
+- [X] bee 1228 - Start Grid
 - [ ] bee 1229 - Combating Cancer
 - [ ] bee 1230 - Integral
 - [ ] bee 1231 - Words
 - [ ] bee 1232 - Rubik Cycle
 - [ ] bee 1233 - Star
-- [ ] bee 1234 - Dancing Sentence
-- [ ] bee 1235 - Inside Out
-- [ ] bee 1236 - Compressing Null and White
-- [ ] bee 1237 - Compare Substring
-- [ ] bee 1238 - Combiner
-- [ ] bee 1239 - Bloggo Shortcuts
-- [ ] bee 1240 - Fit or Dont Fit I
-- [ ] bee 1241 - Fit or Dont Fit II
-- [ ] bee 1242 - Alien Ribonucleic Acid
-- [ ] bee 1243 - How Easy
-- [ ] bee 1244 - Sort by Length
-- [ ] bee 1245 - Lost Boots
-- [ ] bee 1246 - Parking Lot
-- [ ] bee 1247 - Coast Guard
-- [ ] bee 1248 - Diet Plan
-- [ ] bee 1249 - Rot13
-- [ ] bee 1250 - KiloMan
-- [ ] bee 1251 - Tell me the Frequencies!
-- [ ] bee 1252 - Sort! Sort!! And Sort!!!
-- [ ] bee 1253 - Caesar Cipher
-- [ ] bee 1254 - Tag Replacement
-- [ ] bee 1255 - Letter Frequency
-- [ ] bee 1256 - Hash Tables
-- [ ] bee 1257 - Array Hash
-- [ ] bee 1258 - T-Shirts
-- [ ] bee 1259 - Even and Odd
-- [ ] bee 1260 - Hardwood Species
-- [ ] bee 1261 - Hay Points
-- [ ] bee 1262 - Multiple Reading
-- [ ] bee 1263 - Alliteration
+- [X] bee 1234 - Dancing Sentence
+- [X] bee 1235 - Inside Out
+- [X] bee 1236 - Compressing Null and White
+- [X] bee 1237 - Compare Substring
+- [X] bee 1238 - Combiner
+- [X] bee 1239 - Bloggo Shortcuts
+- [X] bee 1240 - Fit or Dont Fit I
+- [X] bee 1241 - Fit or Dont Fit II
+- [X] bee 1242 - Alien Ribonucleic Acid
+- [X] bee 1243 - How Easy
+- [X] bee 1244 - Sort by Length
+- [X] bee 1245 - Lost Boots
+- [X] bee 1246 - Parking Lot
+- [X] bee 1247 - Coast Guard
+- [X] bee 1248 - Diet Plan
+- [X] bee 1249 - Rot13
+- [X] bee 1250 - KiloMan
+- [X] bee 1251 - Tell me the Frequencies!
+- [X] bee 1252 - Sort! Sort!! And Sort!!!
+- [X] bee 1253 - Caesar Cipher
+- [X] bee 1254 - Tag Replacement
+- [X] bee 1255 - Letter Frequency
+- [X] bee 1256 - Hash Tables
+- [X] bee 1257 - Array Hash
+- [X] bee 1258 - T-Shirts
+- [X] bee 1259 - Even and Odd
+- [X] bee 1260 - Hardwood Species
+- [X] bee 1261 - Hay Points
+- [X] bee 1262 - Multiple Reading
+- [X] bee 1263 - Alliteration
 - [ ] bee 1264 - An Easy Problem!
 - [ ] bee 1265 - Computer DJ
-- [ ] bee 1266 - Tornado!
-- [ ] bee 1267 - Pascal Library
+- [X] bee 1266 - Tornado!
+- [X] bee 1267 - Pascal Library
 - [ ] bee 1268 - Mission Impossible
 - [ ] bee 1269 - ICPC Strikes Again
 - [ ] bee 1270 - Optical Fiber
-- [ ] bee 1271 - Where Are My Genes
-- [ ] bee 1272 - Hidden Message
-- [ ] bee 1273 - Justifier
+- [X] bee 1271 - Where Are My Genes
+- [X] bee 1272 - Hidden Message
+- [X] bee 1273 - Justifier
 - [ ] bee 1274 - P-Networks
 - [ ] bee 1275 - Light Up
-- [ ] bee 1276 - Letter Range
-- [ ] bee 1277 - Short Attendance
-- [ ] bee 1278 - Justifier II
-- [ ] bee 1279 - Leap Year or Not Leap Year and …
+- [X] bee 1276 - Letter Range
+- [X] bee 1277 - Short Attendance
+- [X] bee 1278 - Justifier II
+- [X] bee 1279 - Leap Year or Not Leap Year and …
 - [ ] bee 1280 - Friends
-- [ ] bee 1281 - Going to the Market
+- [X] bee 1281 - Going to the Market
 - [ ] bee 1282 - Arranging Heaps
 - [ ] bee 1283 - Boxes and Stones
 - [ ] bee 1284 - Cellphone Typing
-- [ ] bee 1285 - Different Digits
-- [ ] bee 1286 - Motoboy
-- [ ] bee 1287 - Friendly Int Parser
-- [ ] bee 1288 - Destruction Cannon
+- [X] bee 1285 - Different Digits
+- [X] bee 1286 - Motoboy
+- [X] bee 1287 - Friendly Int Parser
+- [X] bee 1288 - Destruction Cannon
 - [ ] bee 1289 - What is the Probability?
 - [ ] bee 1290 - Very Special Boxes
-- [ ] bee 1291 - Is This Integration?
-- [ ] bee 1292 - Trouble with a Pentagon
+- [X] bee 1291 - Is This Integration?
+- [X] bee 1292 - Trouble with a Pentagon
 - [ ] bee 1293 - Romeo & Juliet!
 - [ ] bee 1294 - The Largest and Smallest Box
 - [ ] bee 1295 - The Closest Pair Problem
-- [ ] bee 1296 - Medians
+- [X] bee 1296 - Medians
 - [ ] bee 1297 - Environment Protection
 - [ ] bee 1298 - Fix the Maze
 - [ ] bee 1299 - Game of Tiles
-- [ ] bee 1300 - Hours and Minutes
+- [X] bee 1300 - Hours and Minutes
 - [ ] bee 1301 - Interval Product
 - [ ] bee 1302 - Joining Couples
-- [ ] bee 1303 - Spurs Rocks
-- [ ] bee 1304 - Average Speed
-- [ ] bee 1305 - Cut Off Rounder
-- [ ] bee 1306 - Numbering Roads
+- [X] bee 1303 - Spurs Rocks
+- [X] bee 1304 - Average Speed
+- [X] bee 1305 - Cut Off Rounder
+- [X] bee 1306 - Numbering Roads
 - [ ] bee 1307 - All You Need Is Love
-- [ ] bee 1308 - Etruscan Warriors Never Play Chess
-- [ ] bee 1309 - Monetary Formatting
-- [ ] bee 1310 - Profit
+- [X] bee 1308 - Etruscan Warriors Never Play Chess
+- [X] bee 1309 - Monetary Formatting
+- [X] bee 1310 - Profit
 - [ ] bee 1311 - Army Buddies
 - [ ] bee 1312 - Ball Stacking
 - [ ] bee 1313 - Diccionario Portuñol
@@ -319,21 +319,21 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 1315 - Not too Convex Hull
 - [ ] bee 1316 - Duty Free Shop
 - [ ] bee 1317 - I Hate SPAM, But Some People Love It
-- [ ] bee 1318 - Fake Tickets
+- [X] bee 1318 - Fake Tickets
 - [ ] bee 1319 - Hyperactive Girl
 - [ ] bee 1320 - Ingenious Metro
-- [ ] bee 1321 - Jollo
+- [X] bee 1321 - Jollo
 - [ ] bee 1322 - Kids' Wishes
-- [ ] bee 1323 - Feynman
+- [X] bee 1323 - Feynman
 - [ ] bee 1324 - Higgs Boson
 - [ ] bee 1325 - Bubble Maps
 - [ ] bee 1326 - Chemistry
 - [ ] bee 1327 - Drop Out
 - [ ] bee 1328 - Go Easy
-- [ ] bee 1329 - Head or Tail
+- [X] bee 1329 - Head or Tail
 - [ ] bee 1330 - Uncle Tom’s Inherited Land
 - [ ] bee 1331 - Blocks
-- [ ] bee 1332 - One-Two-Three
+- [X] bee 1332 - One-Two-Three
 - [ ] bee 1333 - Candy’s Candy
 - [ ] bee 1334 - Electrical Pollution
 - [ ] bee 1335 - File Retrieval
@@ -341,9 +341,9 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 1337 - King’s Poker
 - [ ] bee 1338 - It-miha
 - [ ] bee 1339 - Grandpa's Rubik
-- [ ] bee 1340 - I Can Guess the Data Structure!
+- [X] bee 1340 - I Can Guess the Data Structure!
 - [ ] bee 1341 - Kids in a Grid
-- [ ] bee 1342 - Dice
+- [X] bee 1342 - Dice
 - [ ] bee 1343 - Runner Pawns
 - [ ] bee 1344 - Telecommunication Partners
 - [ ] bee 1345 - Secure Region
@@ -358,33 +358,33 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 1354 - Bigger Square Please
 - [ ] bee 1355 - Compressor
 - [ ] bee 1356 - Jupiter Attacks!
-- [ ] bee 1357 - In Braille
+- [X] bee 1357 - In Braille
 - [ ] bee 1358 - Cutting Edge
 - [ ] bee 1359 - Land Division Tax
 - [ ] bee 1360 - Magic Trick
 - [ ] bee 1361 - Building Designing
 - [ ] bee 1362 - My T-Shirt Suits Me
 - [ ] bee 1363 - Car Plates Competition
-- [ ] bee 1364 - Emoticons :-)
+- [X] bee 1364 - Emoticons :-)
 - [ ] bee 1365 - Finding Seats
-- [ ] bee 1366 - Sticks Game
-- [ ] bee 1367 - Help!
+- [X] bee 1366 - Sticks Game
+- [X] bee 1367 - Help!
 - [ ] bee 1368 - Colorful Cubes
 - [ ] bee 1369 - Memory Manager
 - [ ] bee 1370 - Regatta of Scientists
-- [ ] bee 1371 - Close the Doors!
+- [X] bee 1371 - Close the Doors!
 - [ ] bee 1372 - Candy
 - [ ] bee 1373 - DNA Subsequences
 - [ ] bee 1374 - Electricity
-- [ ] bee 1375 - Pole Position
+- [X] bee 1375 - Pole Position
 - [ ] bee 1376 - Brothers
 - [ ] bee 1377 - File Recover
 - [ ] bee 1378 - Isosceles Triangles
-- [ ] bee 1379 - Mean Median Problem
+- [X] bee 1379 - Mean Median Problem
 - [ ] bee 1380 - Bacilli Population Growth
 - [ ] bee 1381 - Diophantine Equations
 - [ ] bee 1382 - Elementary, my Dear Watson!
-- [ ] bee 1383 - Sudoku
+- [X] bee 1383 - Sudoku
 - [ ] bee 1384 - Lazy Jumping Frog
 - [ ] bee 1385 - Report Recovery
 - [ ] bee 1386 - Ambiguous Codes
@@ -394,15 +394,15 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 1390 - Bases
 - [ ] bee 1391 - Almost Shortest Path
 - [ ] bee 1392 - Electric Bill
-- [ ] bee 1393 - Hexagonal Tiles
+- [X] bee 1393 - Hexagonal Tiles
 - [ ] bee 1394 - Hooligan
 - [ ] bee 1395 - Numbers and Operations
 - [ ] bee 1396 - There's an Exam from Cris Today!
-- [ ] bee 1397 - Game of The Greatest
+- [X] bee 1397 - Game of The Greatest
 - [ ] bee 1398 - Ocean Deep! Make it Shallow!!
 - [ ] bee 1399 - Array Transformer
 - [ ] bee 1400 - Counting Game
-- [ ] bee 1401 - Generating Fast, Sorted Permutation
+- [X] bee 1401 - Generating Fast, Sorted Permutation
 - [ ] bee 1402 - Will Indiana Jones Get There?
 - [ ] bee 1403 - Grandpa is Famous
 - [ ] bee 1404 - MegaCheckers
@@ -411,54 +411,54 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 1407 - Weekend Lottery
 - [ ] bee 1408 - Mario
 - [ ] bee 1409 - Zak Galou
-- [ ] bee 1410 - He is Offside!
+- [X] bee 1410 - He is Offside!
 - [ ] bee 1411 - Shrinking Polygons
 - [ ] bee 1412 - Code Lock
 - [ ] bee 1413 - Hurry Up!
-- [ ] bee 1414 - World Cup
+- [X] bee 1414 - World Cup
 - [ ] bee 1415 - Galou is Back!
 - [ ] bee 1416 - ICPC Scoreboard
 - [ ] bee 1417 - Justice League
 - [ ] bee 1418 - Another Crisis
-- [ ] bee 1419 - Bakugan
+- [X] bee 1419 - Bakugan
 - [ ] bee 1420 - Counting Seconds
 - [ ] bee 1421 - Tic-Tac-Toe?
 - [ ] bee 1422 - Bacteria
 - [ ] bee 1423 - Adventure of Super Mario
-- [ ] bee 1424 - Easy Problem from Rujia Liu?
+- [X] bee 1424 - Easy Problem from Rujia Liu?
 - [ ] bee 1425 - Gift?!
-- [ ] bee 1426 - Add Bricks in The Wall
+- [X] bee 1426 - Add Bricks in The Wall
 - [ ] bee 1427 - The Scrooge Co Problem
-- [ ] bee 1428 - Searching for Nessy
-- [ ] bee 1429 - Factorial Again!
-- [ ] bee 1430 - Jingle Composing
+- [X] bee 1428 - Searching for Nessy
+- [X] bee 1429 - Factorial Again!
+- [X] bee 1430 - Jingle Composing
 - [ ] bee 1431 - Klingon Levels
 - [ ] bee 1432 - Triple-Free Binary Strings
 - [ ] bee 1433 - The Splitting Club
 - [ ] bee 1434 - Roman Patrollers
-- [ ] bee 1435 - Square Matrix I
-- [ ] bee 1436 - Brick Game
-- [ ] bee 1437 - Turn Left!
+- [X] bee 1435 - Square Matrix I
+- [X] bee 1436 - Brick Game
+- [X] bee 1437 - Turn Left!
 - [ ] bee 1438 - Unloading Boxes
 - [ ] bee 1439 - Bora Bora
 - [ ] bee 1440 - Dinner Hall
-- [ ] bee 1441 - Hailstone Sequences
+- [X] bee 1441 - Hailstone Sequences
 - [ ] bee 1442 - Street Deviation
 - [ ] bee 1443 - Traffic Jam
 - [ ] bee 1444 - Drakes' Racing
 - [ ] bee 1445 - Who's Going To The Party?
 - [ ] bee 1446 - Venn Diagram?
 - [ ] bee 1447 - Back to the Future
-- [ ] bee 1448 - Chinese Whispers
+- [X] bee 1448 - Chinese Whispers
 - [ ] bee 1449 - The Fantastic Jaspion
 - [ ] bee 1450 - Ramesses' Games
-- [ ] bee 1451 - Broken Keyboard
-- [ ] bee 1452 - Gloud Computing
+- [X] bee 1451 - Broken Keyboard
+- [X] bee 1452 - Gloud Computing
 - [ ] bee 1453 - Crossword With No Words
 - [ ] bee 1454 - The Country of Bicycles
 - [ ] bee 1455 - ICPC Finals
-- [ ] bee 1456 - Brainfuck
-- [ ] bee 1457 - Oracle of Alexandria
+- [X] bee 1456 - Brainfuck
+- [X] bee 1457 - Oracle of Alexandria
 - [ ] bee 1458 - SMS Championship
 - [ ] bee 1459 - Focus
 - [ ] bee 1460 - Grapevine
@@ -467,19 +467,19 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 1463 - Binary Expression Tree
 - [ ] bee 1464 - Onion Layers
 - [ ] bee 1465 - Complex, Difficult and Complicated
-- [ ] bee 1466 - Level Order Tree Traversal
-- [ ] bee 1467 - Zero or One
+- [X] bee 1466 - Level Order Tree Traversal
+- [X] bee 1467 - Zero or One
 - [ ] bee 1468 - Balloon
 - [ ] bee 1469 - Boss
 - [ ] bee 1470 - Folding Machine
-- [ ] bee 1471 - Dangerous Dive
-- [ ] bee 1472 - Triangles
+- [X] bee 1471 - Dangerous Dive
+- [X] bee 1472 - Triangles
 - [ ] bee 1473 - Lines of Containers
 - [ ] bee 1474 - Buses
 - [ ] bee 1475 - Patches
 - [ ] bee 1476 - Trucks
 - [ ] bee 1477 - Man, Elephant and Mouse
-- [ ] bee 1478 - Square Matrix II
+- [X] bee 1478 - Square Matrix II
 - [ ] bee 1479 - Help your Commander
 - [ ] bee 1480 - The Famous Mine Sweeper
 - [ ] bee 1481 - Zing Zhu’s Oyster Farm
@@ -487,8 +487,8 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 1483 - Animal Game
 - [ ] bee 1484 - Type & Add
 - [ ] bee 1485 - Turkish Roulette
-- [ ] bee 1486 - Biochemical Digital Circuit
-- [ ] bee 1487 - Six Flags
+- [X] bee 1486 - Biochemical Digital Circuit
+- [X] bee 1487 - Six Flags
 - [ ] bee 1488 - Magic Numbers?
 - [ ] bee 1489 - Software Engineering
 - [ ] bee 1490 - Attacking Rooks
@@ -496,7 +496,7 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 1492 - Counting Ones
 - [ ] bee 1493 - Disjoint Water Supply
 - [ ] bee 1494 - Eleven
-- [ ] bee 1495 - Football
+- [X] bee 1495 - Football
 - [ ] bee 1496 - Go up the "Ultras"
 - [ ] bee 1497 - Hide and Seek
 - [ ] bee 1498 - Inverting Huffman
@@ -508,94 +508,94 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 1504 - Curo Railroad
 - [ ] bee 1505 - Curo Factories
 - [ ] bee 1506 - Rabito and Bones
-- [ ] bee 1507 - Subsequences
+- [X] bee 1507 - Subsequences
 - [ ] bee 1508 - Laser Beam
 - [ ] bee 1509 - Counting Ambiguities
 - [ ] bee 1510 - The Sightseeing Tour
 - [ ] bee 1511 - GCD Grid
 - [ ] bee 1512 - Tiles
 - [ ] bee 1513 - Horse
-- [ ] bee 1514 - Contest
-- [ ] bee 1515 - Hello Galaxy
-- [ ] bee 1516 - Image
+- [X] bee 1514 - Contest
+- [X] bee 1515 - Hello Galaxy
+- [X] bee 1516 - Image
 - [ ] bee 1517 - Apples
 - [ ] bee 1518 - Turtles
 - [ ] bee 1519 - Abbreviations
-- [ ] bee 1520 - Screws and Nuts
+- [X] bee 1520 - Screws and Nuts
 - [ ] bee 1521 - The Guilty
 - [ ] bee 1522 - Stack Game
-- [ ] bee 1523 - Linear Parking Lot
+- [X] bee 1523 - Linear Parking Lot
 - [ ] bee 1524 - Cafeteria Queue
 - [ ] bee 1525 - Gruntz
 - [ ] bee 1526 - Transporting Snacks
-- [ ] bee 1527 - Guilds
+- [X] bee 1527 - Guilds
 - [ ] bee 1528 - Entangled Ropes
 - [ ] bee 1529 - Max, the Mad
 - [ ] bee 1530 - How Many Substrings?
 - [ ] bee 1531 - Fibonacci Again!
-- [ ] bee 1532 - Throwing Balls
-- [ ] bee 1533 - Detective Watson
-- [ ] bee 1534 - Array 123
+- [X] bee 1532 - Throwing Balls
+- [X] bee 1533 - Detective Watson
+- [X] bee 1534 - Array 123
 - [ ] bee 1535 - Couple-Bachelor-Spinster Numbers
-- [ ] bee 1536 - Libertadores
+- [X] bee 1536 - Libertadores
 - [ ] bee 1537 - Bank Line
 - [ ] bee 1538 - Alien Sequence
 - [ ] bee 1539 - Telecom Company
-- [ ] bee 1540 - Energy Planning
-- [ ] bee 1541 - Building Houses
-- [ ] bee 1542 - Reading Books
+- [X] bee 1540 - Energy Planning
+- [X] bee 1541 - Building Houses
+- [X] bee 1542 - Reading Books
 - [ ] bee 1543 - Board With Prizes
 - [ ] bee 1544 - The Last Non-zero Digit
 - [ ] bee 1545 - Cards II
-- [ ] bee 1546 - Feedback
-- [ ] bee 1547 - Guess What
-- [ ] bee 1548 - Canteen Queue
+- [X] bee 1546 - Feedback
+- [X] bee 1547 - Guess What
+- [X] bee 1548 - Canteen Queue
 - [ ] bee 1549 - Splitting the Coke
-- [ ] bee 1550 - Inversion
-- [ ] bee 1551 - Complete Sentence
-- [ ] bee 1552 - Rescue in Free Fall
-- [ ] bee 1553 - Frequent Asked Questions
+- [X] bee 1550 - Inversion
+- [X] bee 1551 - Complete Sentence
+- [X] bee 1552 - Rescue in Free Fall
+- [X] bee 1553 - Frequent Asked Questions
 - [ ] bee 1554 - N.1 Continuous
-- [ ] bee 1555 - Functions
-- [ ] bee 1556 - Removing Letters
-- [ ] bee 1557 - Square Matrix III
-- [ ] bee 1558 - Sum of Two Squares
-- [ ] bee 1559 - 2048
+- [X] bee 1555 - Functions
+- [X] bee 1556 - Removing Letters
+- [X] bee 1557 - Square Matrix III
+- [X] bee 1558 - Sum of Two Squares
+- [X] bee 1559 - 2048
 - [ ] bee 1560 - Triangle Energy
-- [ ] bee 1561 - Binary Watch
+- [X] bee 1561 - Binary Watch
 - [ ] bee 1562 - Choosing the Pairs
 - [ ] bee 1563 - The Big Problem
-- [ ] bee 1564 - Brazil World Cup
+- [X] bee 1564 - Brazil World Cup
 - [ ] bee 1565 - Connect the Points
-- [ ] URI 1566 - Height
+- [X] URI 1566 - Height
 - [ ] bee 1567 - (2/3/4)-D Sqr/Rects/Cubes/Boxes?
 - [ ] bee 1568 - {sum+=i++} to Reach N
-- [ ] bee 1569 - Snakes and Ladders
+- [X] bee 1569 - Snakes and Ladders
 - [ ] bee 1570 - A Day in Math-Land
 - [ ] bee 1571 - A Square & Equilateral Triangles
 - [ ] bee 1572 - The Unreal Tournament
-- [ ] bee 1573 - Chocolate Factory
-- [ ] bee 1574 - Robot Instructions
+- [X] bee 1573 - Chocolate Factory
+- [X] bee 1574 - Robot Instructions
 - [ ] bee 1575 - Chasing After Don Giovanni
 - [ ] bee 1576 - The Skyline Problem
 - [ ] bee 1577 - Constructible Regular Polygons
-- [ ] bee 1578 - Matrix of Squares
+- [X] bee 1578 - Matrix of Squares
 - [ ] bee 1579 - Transport of Solar Panels
 - [ ] bee 1580 - Quid Est Veritas? Est Vir Qui Adest!
-- [ ] bee 1581 - International Chat
-- [ ] bee 1582 - The Pythagorean Theorem
-- [ ] bee 1583 - Contamination
+- [X] bee 1581 - International Chat
+- [X] bee 1582 - The Pythagorean Theorem
+- [X] bee 1583 - Contamination
 - [ ] bee 1584 - Espertofone
-- [ ] bee 1585 - Making Kites
-- [ ] bee 1586 - Tug of War
+- [X] bee 1585 - Making Kites
+- [X] bee 1586 - Tug of War
 - [ ] bee 1587 - BIT Park
-- [ ] bee 1588 - Help the Federation
-- [ ] bee 1589 - Bob Conduit
+- [X] bee 1588 - Help the Federation
+- [X] bee 1589 - Bob Conduit
 - [ ] bee 1590 - Cuarenta and Two
-- [ ] bee 1591 - Grandma's Day
+- [X] bee 1591 - Grandma's Day
 - [ ] bee 1592 - Elias and Golias
-- [ ] bee 1593 - Binary Function
-- [ ] bee 1594 - Greedy
+- [X] bee 1593 - Binary Function
+- [X] bee 1594 - Greedy
 - [ ] bee 1595 - Humm.. Run or Walk.. That's the Question
 - [ ] bee 1596 - Yusuf II's Tournament
 - [ ] bee 1597 - Unmasking the Sultan's Employee
@@ -608,43 +608,43 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 1604 - Pair-voting in The Board of Gueliz
 - [ ] bee 1605 - Building Your Own Cafila
 - [ ] bee 1606 - The Hints of Ali Baba
-- [ ] bee 1607 - Advancing Letters
+- [X] bee 1607 - Advancing Letters
 - [ ] bee 1608 - Maria's Cakes
-- [ ] bee 1609 - Counting Sheep
-- [ ] bee 1610 - Dudu Service Maker
+- [X] bee 1609 - Counting Sheep
+- [X] bee 1610 - Dudu Service Maker
 - [ ] bee 1611 - Crowded Elevator
-- [ ] bee 1612 - Little Ant
+- [X] bee 1612 - Little Ant
 - [ ] bee 1613 - Goemon is in Trouble
 - [ ] bee 1614 - Help the Tourist
-- [ ] bee 1615 - Insatisfaction on Elections
+- [X] bee 1615 - Insatisfaction on Elections
 - [ ] bee 1616 - Prom
 - [ ] bee 1617 - Safety Path
-- [ ] bee 1618 - Colision
-- [ ] bee 1619 - Date Difference
-- [ ] bee 1620 - Delaunay Triangulation
+- [X] bee 1618 - Colision
+- [X] bee 1619 - Date Difference
+- [X] bee 1620 - Delaunay Triangulation
 - [ ] bee 1621 - Labyrinth
 - [ ] bee 1622 - Lamps
 - [ ] bee 1623 - The Language
-- [ ] bee 1624- Promotion
+- [X] bee 1624- Promotion
 - [ ] bee 1625 - Robocopy
 - [ ] bee 1626 - The Incredible Chapecoense Pizza Contest
 - [ ] bee 1627 - Last Hit
 - [ ] bee 1628 - ChessGuess
-- [ ] bee 1629 - UnzipFACE
-- [ ] bee 1630 - Stakes
+- [X] bee 1629 - UnzipFACE
+- [X] bee 1630 - Stakes
 - [ ] bee 1631 - Bobby's Amazing Cake
-- [ ] bee 1632 - Variations
+- [X] bee 1632 - Variations
 - [ ] bee 1633 - SBC
 - [ ] bee 1634 - Another Lottery
 - [ ] bee 1635 - Ballot Evaluation
 - [ ] bee 1636 - Cyclic Antimonotonic Permutations
 - [ ] bee 1637 - Elias Gamma Coding
 - [ ] bee 1638 - Food Portion Size
-- [ ] bee 1639 - Generate Random Numbers
+- [X] bee 1639 - Generate Random Numbers
 - [ ] bee 1640 - Hotel Booking
 - [ ] bee 1641 - Alfredo's Pizza Restaurant
 - [ ] bee 1642 -Broken Keyboard
-- [ ] bee 1643 - Convert Kilometers to Miles
+- [X] bee 1643 - Convert Kilometers to Miles
 - [ ] bee 1644 - Decode the Strings
 - [ ] bee 1645 - El Dorado
 - [ ] bee 1646 - Forest
@@ -653,7 +653,7 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 1649 - Annoying Painting Tool
 - [ ] bee 1650 - Black and White Painting
 - [ ] bee 1651 - Cylinder
-- [ ] bee 1652 - Deli Deli
+- [X] bee 1652 - Deli Deli
 - [ ] bee 1653 - Expressions
 - [ ] bee 1654 - Grocery Store
 - [ ] bee 1655 - 106 Miles To Chicago
@@ -662,28 +662,28 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 1658 - Dihedral Groups
 - [ ] bee 1659 - Economic Phone Calls
 - [ ] bee 1660 - Flavius Josephus Reloaded
-- [ ] bee 1661 - Wine Trading in Gergovia
+- [X] bee 1661 - Wine Trading in Gergovia
 - [ ] bee 1662 - Homogeneous Squares
 - [ ] bee 1663 - Ambiguous Permutations
 - [ ] bee 1664 - Bullshit Bingo
 - [ ] bee 1665 - Decorate the Wall
 - [ ] bee 1666 - Any Fool Can Do It
-- [ ] bee 1667 - HTML
+- [X] bee 1667 - HTML
 - [ ] bee 1668 - Help The Problem Setter
 - [ ] bee 1669 - All Discs Considered
 - [ ] bee 1670 - Boolean Logic
 - [ ] bee 1671 - Code
 - [ ] bee 1672 - In Danger
-- [ ] bee 1673 - Run Length Encoding
+- [X] bee 1673 - Run Length Encoding
 - [ ] bee 1674 - Fractran
 - [ ] bee 1675 - Binary Search Heap Construction
 - [ ] bee 1676 - Assistance Required
 - [ ] bee 1677 - The Bottom of a Graph
 - [ ] bee 1678 - Fixed Partition Contest Management
 - [ ] bee 1679 - Drink, on Ice
-- [ ] bee 1680 - Edge
+- [X] bee 1680 - Edge
 - [ ] bee 1681 - Fold
-- [ ] bee 1682 - Genetic Code
+- [X] bee 1682 - Genetic Code
 - [ ] bee 1683 - Largest Rectangle in a Histogram
 - [ ] bee 1684 - Candy Marathon
 - [ ] bee 1685 - Daniel's Square
@@ -705,18 +705,18 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 1701 - Fibos's Sequence
 - [ ] bee 1702 - Graph Coloring
 - [ ] bee 1703 - Jumping Stones
-- [ ] bee 1704 - Arranging Tasks
+- [X] bee 1704 - Arranging Tasks
 - [ ] bee 1705 - Binary Lover
 - [ ] bee 1706 - Magical Candy Bridges
 - [ ] bee 1707 - Numbers Game
-- [ ] bee 1708 - Lap
+- [X] bee 1708 - Lap
 - [ ] bee 1709 - Shuffled Deck
-- [ ] bee 1710 - Confederation
+- [X] bee 1710 - Confederation
 - [ ] bee 1711 - Miss Worm
 - [ ] bee 1712 - Ecology
 - [ ] bee 1713 - Teletransport
 - [ ] bee 1714 - Letters
-- [ ] bee 1715 - Handball
+- [X] bee 1715 - Handball
 - [ ] bee 1716 - RSA
 - [ ] bee 1717 - Cut
 - [ ] bee 1718 - Grandpa Pepe's Pizza
@@ -727,9 +727,9 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 1723 - Phylogenetic Trees Inherited
 - [ ] bee 1724 - Hike on a Graph
 - [ ] bee 1725 - Quadtree II
-- [ ] bee 1726 - Friends
+- [X] bee 1726 - Friends
 - [ ] bee 1727 - Euro Cup 2000
-- [ ] bee 1728 - Hard to Believe, But True!
+- [X] bee 1728 - Hard to Believe, But True!
 - [ ] bee 1729 - Average is not Fast Enough!
 - [ ] bee 1730 - Global Roaming
 - [ ] bee 1731 - Advanced Fruits
@@ -738,13 +738,13 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 1734 - Bound Found
 - [ ] bee 1735 - Code the Tree
 - [ ] bee 1736 - Decode the Tree
-- [ ] bee 1737 - Etaoin Shrdlu
+- [X] bee 1737 - Etaoin Shrdlu
 - [ ] bee 1738 - Fiber Network
-- [ ] bee 1739 - Threebonacci Sequence
+- [X] bee 1739 - Threebonacci Sequence
 - [ ] bee 1740 - Is it Ordered?
-- [ ] bee 1741- Reversed John’s Notation
+- [X] bee 1741- Reversed John’s Notation
 - [ ] bee 1742 - Getting in Trouble
-- [ ] bee 1743 - Automated Checking Machine
+- [X] bee 1743 - Automated Checking Machine
 - [ ] bee 1744 - Black and White Stones
 - [ ] bee 1745 - Counting Substhreengs
 - [ ] bee 1746 - Dividing the Names
@@ -756,60 +756,60 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 1752 - Journey Through The Kingdom
 - [ ] bee 1753 - Knights Of The Round Table
 - [ ] bee 1754 - The Time Room
-- [ ] bee 1755 - The Change
+- [X] bee 1755 - The Change
 - [ ] bee 1756 - Genetic Algorithm
 - [ ] bee 1757 - Barrel Travel
-- [ ] bee 1758 - Bonus Grade Points
-- [ ] bee 1759 - Ho Ho Ho
-- [ ] bee 1760 - Koch Snowflake
-- [ ] bee 1761 - Christmas Decorations
+- [X] bee 1758 - Bonus Grade Points
+- [X] bee 1759 - Ho Ho Ho
+- [X] bee 1760 - Koch Snowflake
+- [X] bee 1761 - Christmas Decorations
 - [ ] bee 1762 - Sleds of Santa Claus
-- [ ] bee 1763 - Santa's Translator
-- [ ] bee 1764 - Itinerary of Santa Claus
-- [ ] bee 1765 - Christmas Trapeziums
-- [ ] bee 1766 - The Dark Elf
-- [ ] bee 1767 - Santa Claus Bag
-- [ ] bee 1768 - Christmas Tree
-- [ ] bee 1769 - SSN 1
+- [X] bee 1763 - Santa's Translator
+- [X] bee 1764 - Itinerary of Santa Claus
+- [X] bee 1765 - Christmas Trapeziums
+- [X] bee 1766 - The Dark Elf
+- [X] bee 1767 - Santa Claus Bag
+- [X] bee 1768 - Christmas Tree
+- [X] bee 1769 - SSN 1
 - [ ] bee 1770 - Shuffle
 - [ ] bee 1771 - Random Bingo Cards
-- [ ] bee 1772 - Bit Shuffling
+- [X] bee 1772 - Bit Shuffling
 - [ ] bee 1773 - Locked in the Castle
-- [ ] bee 1774 - Routers
+- [X] bee 1774 - Routers
 - [ ] bee 1775 - Andre and the Mentos
 - [ ] bee 1776 - Prom
 - [ ] bee 1777 - Walk of Fame
 - [ ] bee 1778 - Graph Defense
-- [ ] bee 1779 - Estimating the Mean
+- [X] bee 1779 - Estimating the Mean
 - [ ] bee 1780 - Robots Formation
-- [ ] bee 1781 - Guga and the String
+- [X] bee 1781 - Guga and the String
 - [ ] bee 1782 - Honorable Gift
 - [ ] bee 1783 - Oh no, a Black Hole!
 - [ ] bee 1784 - Birds vs Crows
 - [ ] bee 1785 - Kaprekar
-- [ ] bee 1786 - SSN 2
-- [ ] bee 1787 - URI
+- [X] bee 1786 - SSN 2
+- [X] bee 1787 - URI
 - [ ] bee 1788 - Playing with Numbers
-- [ ] bee 1789 - The Race of Slugs
+- [X] bee 1789 - The Race of Slugs
 - [ ] bee 1790 - Detecting bridges
 - [ ] bee 1791 - Discovering an Matrix
 - [ ] bee 1792 - Programmed Attack
-- [ ] bee 1793 - Escalator
-- [ ] bee 1794 - Laundry
-- [ ] bee 1795 - Trinomial Triangle
-- [ ] bee 1796 - Brazilian Economy
+- [X] bee 1793 - Escalator
+- [X] bee 1794 - Laundry
+- [X] bee 1795 - Trinomial Triangle
+- [X] bee 1796 - Brazilian Economy
 - [ ] bee 1797 - Blasted and Curious
 - [ ] bee 1798 - Pipe Cutting
-- [ ] bee 1799 - The Rat in a Maze
-- [ ] bee 1800 - Where Are My Keys
+- [X] bee 1799 - The Rat in a Maze
+- [X] bee 1800 - Where Are My Keys
 - [ ] bee 1801 - Playing with Numbers
-- [ ] bee 1802 - Books Catalog
-- [ ] bee 1803 - Matring
+- [X] bee 1802 - Books Catalog
+- [X] bee 1803 - Matring
 - [ ] bee 1804 - Mathematicians Needed in Mars
-- [ ] bee 1805 - Natural Sum
+- [X] bee 1805 - Natural Sum
 - [ ] bee 1806 - Agent 004
 - [ ] bee 1807 - Trinomial Triangle, the Revenge
-- [ ] bee 1808 - The Return of The King
+- [X] bee 1808 - The Return of The King
 - [ ] bee 1809 - Secret Agents
 - [ ] bee 1810 - Beverly Hills, Century City
 - [ ] bee 1811 - The Oscar Goes To...
@@ -828,17 +828,17 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 1824 -TseTse Frogs
 - [ ] bee 1825 - Anting
 - [ ] bee 1826 - Is The Language Infinite?
-- [ ] bee 1827 - Square Array IV
-- [ ] bee 1828 - Bazinga!
+- [X] bee 1827 - Square Array IV
+- [X] bee 1828 - Bazinga!
 - [ ] URI 1829 - Biggest Number Game
 - [ ] bee 1830 - Boxes of Chocolates
 - [ ] bee 1831 - Hard Day At Work
-- [ ] bee 1832 - EBCDIC
+- [X] bee 1832 - EBCDIC
 - [ ] bee 1833 - Christmas Decoration
 - [ ] bee 1834 - Vogons!
 - [ ] bee 1835 - Campaign's Promise
-- [ ] bee 1836 - Pokémon!
-- [ ] bee 1837 - Preface
+- [X] bee 1836 - Pokémon!
+- [X] bee 1837 - Preface
 - [ ] bee 1838 - The Philosopher's Stone
 - [ ] bee 1839 - The Chamber of Secrets
 - [ ] bee 1840 - The Prisoner of Azkaban
@@ -846,107 +846,107 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 1842 - The Order of the Phoenix
 - [ ] bee 1843 - The Half-Blood Prince
 - [ ] bee 1844 - The Deathly Hallows
-- [ ] bee 1845 - Efilogue
+- [X] bee 1845 - Efilogue
 - [ ] bee 1846 - Number to Name
-- [ ] bee 1847nline Judge - Welcome to the Winter!
-- [ ] bee 1848 - Counting Crow
-- [ ] bee 1849 - Dracarys!
+- [X] bee 1847nline Judge - Welcome to the Winter!
+- [X] bee 1848 - Counting Crow
+- [X] bee 1849 - Dracarys!
 - [ ] bee 1850 - No One's Labyrinth
 - [ ] bee 1851 - How To Train Your Dragon
 - [ ] bee 1852 - Stark Direwolves
 - [ ] bee 1853 - Daenerys' Game of Trust
 - [ ] bee 1854 - Winter in Winterfell
-- [ ] bee 1855 - Maester's Map
+- [X] bee 1855 - Maester's Map
 - [ ] bee 1856 - Arya's Death List
 - [ ] bee 1857 - Prelude of a Red Wedding
-- [ ] bee 1858 - Theon's Answer
+- [X] bee 1858 - Theon's Answer
 - [ ] bee 1859 - Frozen Archaeology
 - [ ] bee 1860 - Cersei's Walk of Shame
-- [ ] bee 1861 - Hall of Murderers
+- [X] bee 1861 - Hall of Murderers
 - [ ] bee 1862 - Houses of Westeros
 - [ ] bee 1863 - Ramsay's Counter-attack
-- [ ] bee 1864 - Our Days Are Never Coming Back
-- [ ] bee 1865 - Mjölnir
-- [ ] bee 1866 - Bill
-- [ ] bee 1867 - The Greater One-digit Number
-- [ ] bee 1868 - Square Spiral
-- [ ] bee 1869 - Base 32
-- [ ] bee 1870 - Fans and Balloons
-- [ ] bee 1871 - Zero means Zero
+- [X] bee 1864 - Our Days Are Never Coming Back
+- [X] bee 1865 - Mjölnir
+- [X] bee 1866 - Bill
+- [X] bee 1867 - The Greater One-digit Number
+- [X] bee 1868 - Square Spiral
+- [X] bee 1869 - Base 32
+- [X] bee 1870 - Fans and Balloons
+- [X] bee 1871 - Zero means Zero
 - [ ] bee 1872 - Palindrome Double
-- [ ] bee 1873 - Rock-paper-scissors-lizard-Spock
-- [ ] bee 1874 - Pushing Blocks
-- [ ] bee 1875 - Tribol
-- [ ] bee 1876 - Rabiola
-- [ ] bee 1877- Sansa's Snow Castle
+- [X] bee 1873 - Rock-paper-scissors-lizard-Spock
+- [X] bee 1874 - Pushing Blocks
+- [X] bee 1875 - Tribol
+- [X] bee 1876 - Rabiola
+- [X] bee 1877- Sansa's Snow Castle
 - [ ] bee 1878 - Contests in Sequence
 - [ ] bee 1879 - Bridge
 - [ ] bee 1880 - Renzo and the Palindromic Decoration
 - [ ] bee 1881 - Robotics Competition
 - [ ] bee 1882 - Random Walks in Thailand
-- [ ] bee 1883 - Escape from Ayutthaya
+- [X] bee 1883 - Escape from Ayutthaya
 - [ ] bee 1884 - Fighting the Rajasi
 - [ ] bee 1885 - Thai Lotery
 - [ ] bee 1886 - Protecting the Temples
 - [ ] bee 1887 - The Kunming-Singapore Railway
 - [ ] bee 1888 - The chedis of Kamphaeng Phet
 - [ ] bee 1889 - Training With the Larvae of Phuket
-- [ ] bee 1890 - Putting Plates on the Tuk-tuks
+- [X] bee 1890 - Putting Plates on the Tuk-tuks
 - [ ] bee 1891 - Removing Coins in the Kem Kradan
 - [ ] bee 1892 - Freshman Beats Veteran?
-- [ ] bee 1893 - Moon Phases
+- [X] bee 1893 - Moon Phases
 - [ ] bee 1894 - Phylogeny
-- [ ] bee 1895 - Game of Limit
+- [X] bee 1895 - Game of Limit
 - [ ] bee 1896 - It's Time to Duel!
-- [ ] bee 1897 - Smart Game
-- [ ] bee 1898 - Kickback Sum
+- [X] bee 1897 - Smart Game
+- [X] bee 1898 - Kickback Sum
 - [ ] bee 1899 - Hit the Target!
 - [ ] bee 1900 - Null Sequences
-- [ ] bee 1901 - Butterflies
+- [X] bee 1901 - Butterflies
 - [ ] bee 1902 - Association for Consistent Marriages
 - [ ] bee 1903 - Food Chain
 - [ ] bee 1904 - Odds and Evens 2.0
-- [ ] bee 1905 - Cops and Robbers
+- [X] bee 1905 - Cops and Robbers
 - [ ] bee 1906 - Collatz Passwords
-- [ ] bee 1907 - Colouring Game Scenarios
+- [X] bee 1907 - Colouring Game Scenarios
 - [ ] bee 1908 - Multicampus UFFS
 - [ ] bee 1909 - Help Kiko
 - [ ] bee 1910 - Help Clotilde
-- [ ] bee 1911 - Help Girafales
-- [ ] bee 1912 - Help Seu Madruga
+- [X] bee 1911 - Help Girafales
+- [X] bee 1912 - Help Seu Madruga
 - [ ] bee 1913 - Help Mr. Barriga
-- [ ] bee 1914 - Whose Turn Is It?
+- [X] bee 1914 - Whose Turn Is It?
 - [ ] bee 1915 - Help Chaves
 - [ ] bee 1916 - Jaiminho’s Bank Hours
 - [ ] bee 1917 - Help Chapolin Colorado!
 - [ ] bee 1918 - Trip to Acapulco
 - [ ] bee 1919 - Help Nhonho
 - [ ] bee 1920 - Fountain of Desires
-- [ ] bee 1921 - Guilherme and His Kites
+- [X] bee 1921 - Guilherme and His Kites
 - [ ] bee 1922 - Diego and Hammer Game
 - [ ] bee 1923 - Rerisson and The Barbecue
-- [ ] bee 1924 - Vitória and Her Indecision
+- [X] bee 1924 - Vitória and Her Indecision
 - [ ] bee 1925 - Ordan and The Girls
 - [ ] bee 1926 - Marianne and The Twin Cousins
 - [ ] bee 1927 - Tapioca and The Chocolate Rain
 - [ ] bee 1928 - Memory Game
-- [ ] bee 1929 - Triangle
-- [ ] bee 1930 - Electrical Outlet
+- [X] bee 1929 - Triangle
+- [X] bee 1930 - Electrical Outlet
 - [ ] bee 1931 - Even Obsession
 - [ ] bee 1932 - Stock Market
-- [ ] bee 1933 - Tri-du
+- [X] bee 1933 - Tri-du
 - [ ] bee 1934 - Puzzle
 - [ ] bee 1935 - Spiral
-- [ ] bee 1936 - Factorial
+- [X] bee 1936 - Factorial
 - [ ] bee 1937 - Curious Guardians
 - [ ] bee 1938 - Rectangle Plaza
 - [ ] bee 1939 - Ominobox
-- [ ] bee 1940 - Strategy Game
+- [X] bee 1940 - Strategy Game
 - [ ] bee 1941 - Palindrome
 - [ ] bee 1942 - Lottery
-- [ ] bee 1943 - Top N
-- [ ] bee 1944 - FACE 2015 FREE GIFT
-- [ ] bee 1945 - Simulator
+- [X] bee 1943 - Top N
+- [X] bee 1944 - FACE 2015 FREE GIFT
+- [X] bee 1945 - Simulator
 - [ ] bee 1946 - Pyramid of Fortune
 - [ ] bee 1947 - Cab Driver Route
 - [ ] bee 1948 - Compiler
@@ -954,17 +954,17 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 1950 - Spöhndriger
 - [ ] bee 1951 - Circuit Validator
 - [ ] bee 1952 - Knight in 3D Chess
-- [ ] bee 1953 - Robert and Rampant Room
+- [X] bee 1953 - Robert and Rampant Room
 - [ ] bee 1954 - Possible Evolutionary Paths
 - [ ] bee 1955 - See World
 - [ ] bee 1956 - Acacias
-- [ ] bee 1957 - Converting to Hexadecimal
-- [ ] bee 1958 - Scientific Notation
-- [ ] bee 1959 - Regular Simple Polygons
-- [ ] bee 1960 - Roman Numerals for Page Numbers
-- [ ] bee 1961 - Jumping Frog
-- [ ] bee 1962 - A Long, Long Time Ago
-- [ ] bee 1963 - The Motion Picture
+- [X] bee 1957 - Converting to Hexadecimal
+- [X] bee 1958 - Scientific Notation
+- [X] bee 1959 - Regular Simple Polygons
+- [X] bee 1960 - Roman Numerals for Page Numbers
+- [X] bee 1961 - Jumping Frog
+- [X] bee 1962 - A Long, Long Time Ago
+- [X] bee 1963 - The Motion Picture
 - [ ] bee 1964 - The Wrath of Khan
 - [ ] bee 1965 - The Search for Spock
 - [ ] bee 1966 - The Voyage Home
@@ -974,21 +974,21 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 1970 - First Contact
 - [ ] bee 1971 - Insurrection
 - [ ] bee 1972 - Nemesis
-- [ ] bee 1973 - Star Trek
+- [X] bee 1973 - Star Trek
 - [ ] bee 1974 - Into Darkness
 - [ ] bee 1975 - Pearls
 - [ ] bee 1976 - Matrices
 - [ ] bee 1977 - I Can't be Late
 - [ ] bee 1978 - Cameras
 - [ ] bee 1979 - Separate Rooms
-- [ ] bee 1980 - Shuffle
+- [X] bee 1980 - Shuffle
 - [ ] bee 1981 - Shuffling Again
 - [ ] bee 1982 - New Computers
-- [ ] bee 1983 - The Chosen
-- [ ] bee 1984 - The Pronalancia Puzzle
-- [ ] bee 1985 - MacPRONALTS
-- [ ] bee 1986 - The Martian
-- [ ] bee 1987 - Divisibility by 3
+- [X] bee 1983 - The Chosen
+- [X] bee 1984 - The Pronalancia Puzzle
+- [X] bee 1985 - MacPRONALTS
+- [X] bee 1986 - The Martian
+- [X] bee 1987 - Divisibility by 3
 - [ ] bee 1988 - Tourists Circuits
 - [ ] bee 1989 - Doing Nothing
 - [ ] bee 1990 - Equilibrium
@@ -999,15 +999,15 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 1995 - Game, Set and Match
 - [ ] bee 1996 - A Canvas Building
 - [ ] bee 1997 - Black and White
-- [ ] bee 1998 - Awari 2.0
+- [X] bee 1998 - Awari 2.0
 - [ ] bee 1999 - Ball of Reconciliation
 - [ ] bee 2000 - Adeildo of Odonto
 - [ ] bee 2001 - Bile
 - [ ] bee 2002 - Rogerio's House
-- [ ] bee 2003 - Sunday Morning
-- [ ] bee 2004 - Enisvaldo's Hunger
-- [ ] bee 2005 - Upset Fracil
-- [ ] bee 2006 - Identifying Tea
+- [X] bee 2003 - Sunday Morning
+- [X] bee 2004 - Enisvaldo's Hunger
+- [X] bee 2005 - Upset Fracil
+- [X] bee 2006 - Identifying Tea
 - [ ] bee 2007 - Fence the Vegetables Fail
 - [ ] bee 2008 - Exposing Corruption
 - [ ] bee 2009 - Just a Bit Sorted
@@ -1017,24 +1017,24 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2013 - At Most Twice
 - [ ] bee 2014 - Blood Groups
 - [ ] bee 2015 - Cake Cut
-- [ ] bee 2016 - D as in Daedalus
+- [X] bee 2016 - D as in Daedalus
 - [ ] bee 2017 - Six Strings
 - [ ] bee 2018 - Christmas Olympics
 - [ ] bee 2019 - Cici, Cini and Cino
-- [ ] bee 2020 - Elves and Their Codes
-- [ ] bee 2021 - Christmas Lights
-- [ ] bee 2022 - Christmas Gifts
-- [ ] bee 2023 - The Last Good Kid
+- [X] bee 2020 - Elves and Their Codes
+- [X] bee 2021 - Christmas Lights
+- [X] bee 2022 - Christmas Gifts
+- [X] bee 2023 - The Last Good Kid
 - [ ] bee 2024 - Piling Gifts
-- [ ] bee 2025 - Joulupukki
-- [ ] bee 2026 - Christmas Tree
-- [ ] bee 2027 - Noel Bet
-- [ ] bee 2028 - Sequence of sequence
-- [ ] bee 2029 - Honey Reservoir
+- [X] bee 2025 - Joulupukki
+- [X] bee 2026 - Christmas Tree
+- [X] bee 2027 - Noel Bet
+- [X] bee 2028 - Sequence of sequence
+- [X] bee 2029 - Honey Reservoir
 - [ ] bee 2030 - Pit Stop
-- [ ] bee 2031 - Rock, Paper, Airstrike
+- [X] bee 2031 - Rock, Paper, Airstrike
 - [ ] bee 2032 - Game of Eight
-- [ ] bee 2033 - Interest on Loan
+- [X] bee 2033 - Interest on Loan
 - [ ] bee 2034 - Cantor
 - [ ] bee 2035 - Designing T-Shirts
 - [ ] bee 2036 - Domino Effect
@@ -1045,25 +1045,25 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2041 - Gödelito's Sequence
 - [ ] bee 2042 - Fofão of Persia
 - [ ] bee 2043 - High Mountains
-- [ ] bee 2044 - In Debt
+- [X] bee 2044 - In Debt
 - [ ] bee 2045 - Defending Alamo
 - [ ] bee 2046 - Delivers Steak
 - [ ] bee 2047 - Fly By Night
 - [ ] bee 2048 - Houston, We've Got a Problem!
-- [ ] bee 2049 - Numbers of Ahmoc
+- [X] bee 2049 - Numbers of Ahmoc
 - [ ] bee 2050 - Ramsey's Saloon
-- [ ] bee 2051 - Karnaugh Maps I
+- [X] bee 2051 - Karnaugh Maps I
 - [ ] bee 2052 - Karnaugh Maps II
 - [ ] bee 2053 - ET Phone Home
 - [ ] bee 2054 - Last Year at Marienbad
 - [ ] bee 2055 - Lisp is Better than Java, C and C++
 - [ ] bee 2056 - The Cube
-- [ ] bee 2057 - Time Zone
-- [ ] bee 2058 - Triangles and Regular Polygons
-- [ ] bee 2059 - Odd, Even or Cheating
-- [ ] bee 2060 - Bino's Challenge
-- [ ] URI 2061 - Closing Tabs
-- [ ] bee 2062 - OBI URI
+- [X] bee 2057 - Time Zone
+- [X] bee 2058 - Triangles and Regular Polygons
+- [X] bee 2059 - Odd, Even or Cheating
+- [X] bee 2060 - Bino's Challenge
+- [X] URI 2061 - Closing Tabs
+- [X] bee 2062 - OBI URI
 - [ ] bee 2063 - Hunting Digletts
 - [ ] bee 2064 - Prant and the Indecision
 - [ ] bee 2065 - Supermarket Line
@@ -1085,13 +1085,13 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2081 - Dreams, Believe Them!
 - [ ] bee 2082 - Time Travel
 - [ ] bee 2083 - On The Side Of The Road
-- [ ] bee 2084 - Elections
+- [X] bee 2084 - Elections
 - [ ] bee 2085 - Little Red-Cap
 - [ ] bee 2086 - Bike Land
-- [ ] bee 2087 - Good And Bad Sets
+- [X] bee 2087 - Good And Bad Sets
 - [ ] bee 2088 - Dengue
 - [ ] bee 2089 - Cafeteria
-- [ ] bee 2090 - I Went to Market And Bought...
+- [X] bee 2090 - I Went to Market And Bought...
 - [ ] bee 2091 - Lonely Number
 - [ ] bee 2092 - Watching the Game
 - [ ] bee 2093 - Escaping from Escaping
@@ -1109,15 +1109,15 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2105 - Monopoly
 - [ ] bee 2106 - Assembling
 - [ ] bee 2107 - The Ekaterinburg Pyramids
-- [ ] bee 2108 - Counting Characters
+- [X] bee 2108 - Counting Characters
 - [ ] bee 2109 - Spies's Duel
 - [ ] bee 2110 - Sun Bath in The Garden
-- [ ] bee 2111 - Understanding Sorobov
+- [X] bee 2111 - Understanding Sorobov
 - [ ] bee 2112 - Scheduling Classrooms
 - [ ] bee 2113 - Sverdlovsk's Incident
 - [ ] bee 2114 - Poker
 - [ ] bee 2115 - Production in Ekaterinburg
-- [ ] bee 2116 - Students Game
+- [X] bee 2116 - Students Game
 - [ ] bee 2117 - Help Me Master
 - [ ] bee 2118 - What Headquarter?
 - [ ] bee 2119 - Goão and Stairs
@@ -1127,70 +1127,70 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2123 - The Law Goes on Horseback!
 - [ ] bee 2124 - Mrs. Montagny Menu!
 - [ ] bee 2125 - Totems Builders
-- [ ] bee 2126 - Searching Subsequences
+- [X] bee 2126 - Searching Subsequences
 - [ ] bee 2127 - Vine System
 - [ ] bee 2128 - Demonstration of Honesty!
-- [ ] bee 2129 - Factorial
+- [X] bee 2129 - Factorial
 - [ ] bee 2130 Worldwide Finals in 2008
 - [ ] bee 2131 - Mrs. Montagny's Table
-- [ ] bee 2132 - Not One More Canadian Game!
+- [X] bee 2132 - Not One More Canadian Game!
 - [ ] bee 2133 - Dinostratus Numbers
-- [ ] bee 2134 - Who Will Fail?
+- [X] bee 2134 - Who Will Fail?
 - [ ] bee 2135 - Retrieval
-- [ ] bee 2136 - Friends of Habay
-- [ ] bee 2137 - The Library of Mr. Severino
-- [ ] bee 2138 - Most Frequent Digit
-- [ ] bee 2139 - Pedrinho's Christmas
-- [ ] bee 2140 - Two Bills
+- [X] bee 2136 - Friends of Habay
+- [X] bee 2137 - The Library of Mr. Severino
+- [X] bee 2138 - Most Frequent Digit
+- [X] bee 2139 - Pedrinho's Christmas
+- [X] bee 2140 - Two Bills
 - [ ] bee 2141 - P4 Simplified
 - [ ] bee 2142 - Stop the Pigeon!
-- [ ] bee 2143 - The Return of Radar
-- [ ] bee 2144 - Bodybuilder
+- [X] bee 2143 - The Return of Radar
+- [X] bee 2144 - Bodybuilder
 - [ ] bee 2145 - The Love Life of the Numbers
-- [ ] bee 2146 - Password
-- [ ] bee 2147 - Galopeira
+- [X] bee 2146 - Password
+- [X] bee 2147 - Galopeira
 - [ ] bee 2148 - Dice Seat
-- [ ] bee 2149 - The Uncle Phill Bonati's Sequence
-- [ ] bee 2150 - Alien Vowels
-- [ ] bee 2151 - Rulk's Punch
-- [ ] bee 2152 - Pepe, I Already Took the Candle!
-- [ ] bee 2153 - Sanduicheiche
+- [X] bee 2149 - The Uncle Phill Bonati's Sequence
+- [X] bee 2150 - Alien Vowels
+- [X] bee 2151 - Rulk's Punch
+- [X] bee 2152 - Pepe, I Already Took the Candle!
+- [X] bee 2153 - Sanduicheiche
 - [ ] bee 2154 - Polynomial Derivative
 - [ ] bee 2155 - The Lizard's Icosahedrons
 - [ ] bee 2156 - The Adventures of Pak-man
-- [ ] bee 2157 - Mirror Sequence
-- [ ] bee 2158 - Helping Uncle Cláudio
-- [ ] bee 2159 - Approximate Number of Primes
-- [ ] bee 2160 - Name at Form
-- [ ] bee 2161 - Square Root of 10
-- [ ] bee 2162 - Peaks and Valleys
-- [ ] bee 2163 - The Force Awakens
-- [ ] bee 2164 - Fast Fibonacci
-- [ ] bee 2165 - Twitting
-- [ ] bee 2166 - Square Root of 2
-- [ ] bee 2167 - Engine Failure
-- [ ] bee 2168 - Twilight at Portland
+- [X] bee 2157 - Mirror Sequence
+- [X] bee 2158 - Helping Uncle Cláudio
+- [X] bee 2159 - Approximate Number of Primes
+- [X] bee 2160 - Name at Form
+- [X] bee 2161 - Square Root of 10
+- [X] bee 2162 - Peaks and Valleys
+- [X] bee 2163 - The Force Awakens
+- [X] bee 2164 - Fast Fibonacci
+- [X] bee 2165 - Twitting
+- [X] bee 2166 - Square Root of 2
+- [X] bee 2167 - Engine Failure
+- [X] bee 2168 - Twilight at Portland
 - [ ] bee 2169 - Help Leonardo!
-- [ ] bee 2170 - Taxes of Project
-- [ ] bee 2171 - Sharing with Fink
-- [ ] bee 2172 - Event
-- [ ] bee 2173 - Slush Fund
-- [ ] bee 2174 - Pomekon Collection
-- [ ] bee 2175 - What is the fastest?
-- [ ] bee 2176 - Parity
+- [X] bee 2170 - Taxes of Project
+- [X] bee 2171 - Sharing with Fink
+- [X] bee 2172 - Event
+- [X] bee 2173 - Slush Fund
+- [X] bee 2174 - Pomekon Collection
+- [X] bee 2175 - What is the fastest?
+- [X] bee 2176 - Parity
 - [ ] bee 2177 - Rio 2016
-- [ ] bee 2178 - Blue Lagoon
-- [ ] bee 2179 - Batuke
-- [ ] bee 2180 - Travel to Mars in Primo Speed
+- [X] bee 2178 - Blue Lagoon
+- [X] bee 2179 - Batuke
+- [X] bee 2180 - Travel to Mars in Primo Speed
 - [ ] bee 2181 - URI - Uireb Rhom uin Iavas
 - [ ] bee 2182 - Luciano and the Bike
 - [ ] bee 2183 - Final Battle
 - [ ] bee 2184 - Pome2184ons
 - [ ] bee 2185 - Playing with Pomekons
 - [ ] bee 2186 - Bino, Prant and Indecision
-- [ ] bee 2187 - Bits Exchanged
+- [X] bee 2187 - Bits Exchanged
 - [ ] bee 2188 - Capuchin Monkey
-- [ ] URI 2189 - Kermesse
+- [X] URI 2189 - Kermesse
 - [ ] bee 2190 - Optical Network
 - [ ] bee 2191 - Goal Difference
 - [ ] bee 2192 - To Add or to Multiply
@@ -1204,7 +1204,7 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2200 - Mummy Madness
 - [ ] bee 2201 - Pyramids
 - [ ] bee 2202 - Trash Removal
-- [ ] bee 2203 - Crowstorm
+- [X] bee 2203 - Crowstorm
 - [ ] bee 2204 - Stop The Bomb!
 - [ ] bee 2205 - Asteroid Rangers
 - [ ] bee 2206 - Curvy Little Bottles
@@ -1218,44 +1218,44 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2214 - Shortest Flight Path
 - [ ] bee 2215 - Stacking Plates
 - [ ] bee 2216 - Takeover Wars
-- [ ] bee 2217 - Nine
-- [ ] bee 2218 - The Fearful Evil-Son
-- [ ] bee 2219 - Passing By The PokeStops
+- [X] bee 2217 - Nine
+- [X] bee 2218 - The Fearful Evil-Son
+- [X] bee 2219 - Passing By The PokeStops
 - [ ] bee 2220 - Helping Gust-Avô
-- [ ] bee 2221 - Pomekon Battle
-- [ ] bee 2222 - Playing with Sets
+- [X] bee 2221 - Pomekon Battle
+- [X] bee 2222 - Playing with Sets
 - [ ] bee 2223 - Pomekon Catalog
 - [ ] bee 2224 - Pomekon Tournament
 - [ ] bee 2225 - Penalization
 - [ ] bee 2226 - Balloon Factory
-- [ ] bee 2227 - Airport
+- [X] bee 2227 - Airport
 - [ ] bee 2228 - Treasure Hunt
 - [ ] bee 2229 - Folding
 - [ ] bee 2230 - Toll
 - [ ] bee 2231 - Lunar Temperature
-- [ ] bee 2232 - Pascal's Triangle
+- [X] bee 2232 - Pascal's Triangle
 - [ ] bee 2233 - Colorful Labels
-- [ ] URI 2234 - Hot Dogs
-- [ ] bee 2235 - Walking in Time
+- [X] URI 2234 - Hot Dogs
+- [X] bee 2235 - Walking in Time
 - [ ] bee 2236 - Hot Potato
 - [ ] bee 2237 - Containers
 - [ ] bee 2238 - Dividers
 - [ ] bee 2239 - Hex Statistics
 - [ ] bee 2240 - Merging Trees
 - [ ] bee 2241 - Go--
-- [ ] bee 2242 - Huaauhahhuahau
-- [ ] bee 2243 - Isosceles
+- [X] bee 2242 - Huaauhahhuahau
+- [X] bee 2243 - Isosceles
 - [ ] bee 2244 - Olympic Games
 - [ ] bee 2245 - Shrinking Polygons Kit
 - [ ] bee 2246 - Tiles
-- [ ] bee 2247 - Grandma Vitória's Piggy Banks
-- [ ] bee 2248 - Internship
+- [X] bee 2247 - Grandma Vitória's Piggy Banks
+- [X] bee 2248 - Internship
 - [ ] bee 2249 - Erdos Number
 - [ ] bee 2250 - Tetris
 - [ ] bee 2251 - Towers of Hanoi
-- [ ] bee 2252 - Discovering Password
-- [ ] bee 2253 - Passwords Validator
-- [ ] bee 2254 - Japanese Daisy Game
+- [X] bee 2252 - Discovering Password
+- [X] bee 2253 - Passwords Validator
+- [X] bee 2254 - Japanese Daisy Game
 - [ ] bee 2255 - Self-Assembly
 - [ ] bee 2256 - Hey, Better Bettor
 - [ ] bee 2257 - Surely You Congest
@@ -1287,18 +1287,18 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2283 - Keyboarding
 - [ ] bee 2284 - Pipe Stream
 - [ ] 404 Not Found
-- [ ] 404 Not Found
+- [X] 404 Not Found
 - [ ] 404 Not Found
 - [ ] 404 Not Found
 - [ ] bee 2289 - Hamming Distance
 - [ ] bee 2290 - Apaixornados Numbers
 - [ ] bee 2291 - Divine Numbers
-- [ ] bee 2292 - LED Panel
-- [ ] bee 2293 - Campo de Minhocas
+- [X] bee 2292 - LED Panel
+- [X] bee 2293 - Campo de Minhocas
 - [ ] bee 2294 - Duende Perdido
-- [ ] bee 2295 - Frota de Táxi
+- [X] bee 2295 - Frota de Táxi
 - [ ] bee 2296 - Trilhas
-- [ ] bee 2297 - Bafo
+- [X] bee 2297 - Bafo
 - [ ] bee 2298 - Mini-Poker
 - [ ] bee 2299 - Pedido de Desculpas
 - [ ] bee 2300 - Transmissão de Energia
@@ -1311,42 +1311,42 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] 404 Not Found
 - [ ] 404 Not Found
 - [ ] 404 Not Found
-- [ ] bee 2310 - Volleyball
-- [ ] bee 2311 - Diving
-- [ ] bee 2312 - Medal Table
-- [ ] bee 2313 - Which Triangle
-- [ ] bee 2314 - Indenter
-- [ ] bee 2315 - Easy Difference Between Dates
+- [X] bee 2310 - Volleyball
+- [X] bee 2311 - Diving
+- [X] bee 2312 - Medal Table
+- [X] bee 2313 - Which Triangle
+- [X] bee 2314 - Indenter
+- [X] bee 2315 - Easy Difference Between Dates
 - [ ] 404 Not Found
 - [ ] bee 2317 - Lobo Mau
 - [ ] bee 2318 - Quadrado Mágico
 - [ ] bee 2319 - Penalidade Mínima
 - [ ] 404 Not Found
 - [ ] bee 2321 - Detectando Colisões
-- [ ] bee 2322 - Peça Perdida
+- [X] bee 2322 - Peça Perdida
 - [ ] bee 2323 - Móbile
 - [ ] bee 2324 - Pastas
 - [ ] bee 2325 - Repositórios
 - [ ] bee 2326 - Sacoleiro
 - [ ] 404 Not Found
-- [ ] bee 2328 - Chocolate
+- [X] bee 2328 - Chocolate
 - [ ] 404 Not Found
 - [ ] bee 2330 - Telemarketing
 - [ ] bee 2331 - Uiquipédia
 - [ ] 404 Not Found
 - [ ] 404 Not Found
-- [ ] bee 2334 - Little Ducks
+- [X] bee 2334 - Little Ducks
 - [ ] bee 2335 - Arquibaldo's Challenge
 - [ ] bee 2336 - 2336
 - [ ] bee 2337 - Pro Ability
-- [ ] bee 2338 - Morse
-- [ ] bee 2339 - Aviões de Papel
+- [X] bee 2338 - Morse
+- [X] bee 2339 - Aviões de Papel
 - [ ] bee 2340 - Feira de Bactérias
 - [ ] bee 2341 - Número de Envelopes
-- [ ] bee 2342 - Overflow
-- [ ] bee 2343 - Caçadores de Mitos
-- [ ] bee 2344 - Notas da Prova
-- [ ] bee 2345 - Assigning Teams
+- [X] bee 2342 - Overflow
+- [X] bee 2343 - Caçadores de Mitos
+- [X] bee 2344 - Notas da Prova
+- [X] bee 2345 - Assigning Teams
 - [ ] bee 2346 - Back to the Future
 - [ ] bee 2347 - Counting Self-Rotating Subsets
 - [ ] bee 2348 - Dating On-Line
@@ -1356,8 +1356,8 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2352 - Internet Trouble
 - [ ] bee 2353 - Just in Time
 - [ ] bee 2354 - Kill the Werewolf
-- [ ] bee 2355 - Brazil and Germany
-- [ ] bee 2356 - Bacteria I
+- [X] bee 2355 - Brazil and Germany
+- [X] bee 2356 - Bacteria I
 - [ ] bee 2357 - Violence in Syldavia
 - [ ] bee 2358 - Bacteria II
 - [ ] bee 2359 - Allocating Ambulances
@@ -1366,41 +1366,41 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2362 - Alien Invasion
 - [ ] bee 2363 - Playing with Transformations
 - [ ] bee 2364 - Henrique
-- [ ] bee 2365 - Brazilian Soccer' Big Bet
+- [X] bee 2365 - Brazilian Soccer' Big Bet
 - [ ] 404 Not Found
 - [ ] 404 Not Found
 - [ ] 404 Not Found
-- [ ] bee 2369 - Conta de Água
+- [X] bee 2369 - Conta de Água
 - [ ] bee 2370 - Times
 - [ ] bee 2371 - Naval Battle
 - [ ] bee 2372 - Meeting
-- [ ] bee 2373 - Garçom
-- [ ] None
-- [ ] bee 2375 - Sedex
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] bee 2378 - Elevator
+- [X] bee 2373 - Garçom
+- [X] bee 2374 - Tire 
+- [X] bee 2375 - Sedex
+- [X] 404 Not Found
+- [X] 404 Not Found
+- [X] bee 2378 - Elevator
 - [ ] bee 2379 - Dança Indígena
 - [ ] bee 2380 - Fusões
-- [ ] bee 2381 - Lista de Chamada
+- [X] bee 2381 - Lista de Chamada
 - [ ] bee 2382 - Sedex Marciano
 - [ ] bee 2383 - Altas Aventuras
 - [ ] bee 2384 - Tradutor Alienígena
 - [ ] bee 2385 - Multiplicação de Matrizes
-- [ ] bee 2386 - Telescópio
+- [X] bee 2386 - Telescópio
 - [ ] bee 2387 - Dentista
-- [ ] bee 2388 - Tacógrafo
+- [X] bee 2388 - Tacógrafo
 - [ ] 404 Not Found
 - [ ] bee 2390 - Escada Rolante
 - [ ] bee 2391 - Progressões Aritméticas
 - [ ] bee 2392 - Pulo do Sapo
 - [ ] bee 2393 - O Mar não está para Peixe
-- [ ] bee 2394 - Corrida 1
-- [ ] bee 2395 - Transporte de Contêineres
+- [X] bee 2394 - Corrida 1
+- [X] bee 2395 - Transporte de Contêineres
+- [X] 404 Not Found
+- [X] 404 Not Found
 - [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
+- [X] 404 Not Found
 - [ ] bee 2400 - Balé
 - [ ] bee 2401 - Calculadora
 - [ ] bee 2402 - Selos
@@ -1409,119 +1409,119 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] 404 Not Found
 - [ ] 404 Not Found
 - [ ] 404 Not Found
-- [ ] bee 2408 - Vice-Campeão
+- [X] bee 2408 - Vice-Campeão
 - [ ] bee 2409 - Colchão
-- [ ] bee 2410 - Frequencia na Aula
+- [X] bee 2410 - Frequencia na Aula
 - [ ] bee 2411 - O Tabuleiro Esburacado
 - [ ] bee 2412 - Tarzan
-- [ ] bee 2413 - Busca na Internet
-- [ ] bee 2414 - Desafio do Maior Número
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
+- [X] bee 2413 - Busca na Internet
+- [X] bee 2414 - Desafio do Maior Número
+- [X] 404 Not Found
+- [X] 404 Not Found
+- [X] 404 Not Found
+- [X] 404 Not Found
 - [ ] bee 2419 - Costa
-- [ ] bee 2420 - Guerra por Território
+- [X] bee 2420 - Guerra por Território
 - [ ] bee 2421 - Álbum de Fotos
 - [ ] bee 2422 - Soma das Casas
-- [ ] bee 2423 - Receita de Bolo
-- [ ] bee 2424 - Tira-teima
+- [X] bee 2423 - Receita de Bolo
+- [X] bee 2424 - Tira-teima
 - [ ] 404 Not Found
 - [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] bee 2428 - Capital
+- [X] 404 Not Found
+- [X] bee 2428 - Capital
 - [ ] bee 2429 - Rodovia
 - [ ] bee 2430 - Catálogo de Músicas
 - [ ] bee 2431 - Lençol
 - [ ] bee 2432 - Tiro ao Alvo
 - [ ] bee 2433 - Vende-se
-- [ ] bee 2434 - Saldo do Vovô
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] bee 2437 - Distância de Manhattan
+- [X] bee 2434 - Saldo do Vovô
+- [X] 404 Not Found
+- [X] 404 Not Found
+- [X] bee 2437 - Distância de Manhattan
 - [ ] bee 2438 - Quadradinho de 8
 - [ ] bee 2439 - Cachecol da Vovó Vitória
 - [ ] bee 2440 - Famílias de Troia
 - [ ] bee 2441 - Janela
 - [ ] bee 2442 - Plantação
-- [ ] bee 2443 - Soma de Frações
-- [ ] bee 2444 - Volume da TV
+- [X] bee 2443 - Soma de Frações
+- [X] bee 2444 - Volume da TV
 - [ ] 404 Not Found
 - [ ] 404 Not Found
 - [ ] 404 Not Found
 - [ ] bee 2448 - Postman
 - [ ] bee 2449 - Door Lock
 - [ ] bee 2450 - Matrix Ladder
-- [ ] bee 2451 - PacMan
+- [X] bee 2451 - PacMan
 - [ ] bee 2452 - Semente
-- [ ] bee 2453 - Língua do P
-- [ ] bee 2454 - Flíper
-- [ ] bee 2455 - Gangorra
-- [ ] bee 2456 - Cards
-- [ ] 404 Not Found
+- [X] bee 2453 - Língua do P
+- [X] bee 2454 - Flíper
+- [X] bee 2455 - Gangorra
+- [X] bee 2456 - Cards
+- [X] 404 Not Found
 - [ ] 404 Not Found
 - [ ] 404 Not Found
 - [ ] 404 Not Found
 - [ ] bee 2461 - Bluff
 - [ ] bee 2462 - Flight
 - [ ] bee 2463 - Corredor
-- [ ] bee 2464 - Decifra
-- [ ] bee 2465 - Passa Bolinha
-- [ ] bee 2466 - Sinuca
+- [X] bee 2464 - Decifra
+- [X] bee 2465 - Passa Bolinha
+- [X] bee 2466 - Sinuca
 - [ ] bee 2467 - Frequency
 - [ ] bee 2468 - Map
-- [ ] bee 2469 - Grades
+- [X] bee 2469 - Grades
 - [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
+- [X] 404 Not Found
+- [X] 404 Not Found
+- [X] 404 Not Found
 - [ ] bee 2474 - Mocking the System
 - [ ] bee 2475 - Manufacture of Presents
 - [ ] bee 2476 - Noel's Deliveries
 - [ ] bee 2477 - Distribution Network
-- [ ] bee 2478 - Hit the Gift
-- [ ] bee 2479 - Sorting Santa's List of Children
+- [X] bee 2478 - Hit the Gift
+- [X] bee 2479 - Sorting Santa's List of Children
 - [ ] bee 2480 - Red Lights
 - [ ] bee 2481 - It's a Trap Bino
-- [ ] bee 2482 - Noel's Labels
-- [ ] URI 2483 - Merry Christmaaas!
-- [ ] bee 2484 - Abracadabra
-- [ ] bee 2485 - Bicho da Goiaba
-- [ ] bee 2486 - C Mais ou Menos?
+- [X] bee 2482 - Noel's Labels
+- [X] URI 2483 - Merry Christmaaas!
+- [X] bee 2484 - Abracadabra
+- [X] bee 2485 - Bicho da Goiaba
+- [X] bee 2486 - C Mais ou Menos?
 - [ ] bee 2487 - Do Lado Escuro do Código
 - [ ] bee 2488 - É Na Batida do Cavalo!
-- [ ] bee 2489 - Flecha no Coelho
+- [X] bee 2489 - Flecha no Coelho
 - [ ] bee 2490 - Garoto Ixpertinho
 - [ ] bee 2491 - Habay e Robfilho – Os Fujões
 - [ ] bee 2492 - Ilhas Isoladas
-- [ ] bee 2493 - Jogo do Operador
-- [ ] bee 2494 - Pens
+- [X] bee 2493 - Jogo do Operador
+- [X] bee 2494 - Pens
 - [ ] bee 2495 - Where is my Pen?
-- [ ] bee 2496 - The Only Chance
-- [ ] bee 2497 - Counting Cycles
+- [X] bee 2496 - The Only Chance
+- [X] bee 2497 - Counting Cycles
 - [ ] bee 2498 - Help Vânia
 - [ ] bee 2499 - Internal Triangle
 - [ ] bee 2500 - William Xorando
 - [ ] bee 2501 - Allowed Factors
-- [ ] bee 2502 - Deciphering the Encrypted Card
+- [X] bee 2502 - Deciphering the Encrypted Card
 - [ ] bee 2503 - Regularity Race
 - [ ] bee 2504 - Biorythm
 - [ ] bee 2505 - Autopotential
 - [ ] bee 2506 - Medical Clinic Queue
 - [ ] bee 2507 - Hamming Code
-- [ ] bee 2508 - Fortune Teller
+- [X] bee 2508 - Fortune Teller
 - [ ] bee 2509 - Latex Editor
-- [ ] bee 2510 - Batmain
+- [X] bee 2510 - Batmain
 - [ ] bee 2511 - WWW
 - [ ] bee 2512 - Reverse Game
 - [ ] bee 2513 - Xoringan
 - [ ] bee 2514 - Lunar Alignment
-- [ ] bee 2515 - Cracker
-- [ ] bee 2516 - Running
+- [X] bee 2515 - Cracker
+- [X] bee 2516 - Running
 - [ ] bee 2517 - PoGro Challenge
-- [ ] bee 2518 - FNDI's staircase
+- [X] bee 2518 - FNDI's staircase
 - [ ] bee 2519 - Winning Strategy
-- [ ] bee 2520 - The Last Analógimôn
+- [X] bee 2520 - The Last Analógimôn
 - [ ] bee 2521 - Ask the Geographer
 - [ ] bee 2522 - FNDI's Network
 - [ ] bee 2523 - Will's Message
@@ -1531,34 +1531,34 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2527 - Cheddar
 - [ ] bee 2528 - Forbidden City
 - [ ] bee 2529 - Flea Circus
-- [ ] bee 2530 - Cheating
+- [X] bee 2530 - Cheating
 - [ ] bee 2531 - Shopping in FdI
 - [ ] bee 2532 - Demogorgon
-- [ ] bee 2533 - Internship
-- [ ] bee 2534 - General Exam
-- [ ] bee 2535 - Adoption Fair
+- [X] bee 2533 - Internship
+- [X] bee 2534 - General Exam
+- [X] bee 2535 - Adoption Fair
 - [ ] bee 2536 - FHBZMIPS
 - [ ] bee 2537 - GigaDrive
 - [ ] bee 2538 - Gym
 - [ ] bee 2539 - High Five
-- [ ] bee 2540 - Leader's Impeachment
+- [X] bee 2540 - Leader's Impeachment
 - [ ] bee 2541 - Ingrest
-- [ ] bee 2542 - Iu-Di-Oh!
-- [ ] bee 2543 - UFPR Gaming
-- [ ] bee 2544 - Kage Bunshin no Jutsu
+- [X] bee 2542 - Iu-Di-Oh!
+- [X] bee 2543 - UFPR Gaming
+- [X] bee 2544 - Kage Bunshin no Jutsu
 - [ ] bee 2545 - Manyfile
 - [ ] bee 2546 - Allowance
-- [ ] bee 2547 - Roller Coaster
-- [ ] bee 2548 - 3D Virtual Museum
-- [ ] bee 2549 - Usernames
+- [X] bee 2547 - Roller Coaster
+- [X] bee 2548 - 3D Virtual Museum
+- [X] bee 2549 - Usernames
 - [ ] bee 2550 - New Campus
-- [ ] bee 2551 - New Record
-- [ ] bee 2552 - CheeseBreadSweeper
+- [X] bee 2551 - New Record
+- [X] bee 2552 - CheeseBreadSweeper
 - [ ] bee 2553 - Tour in FdI
-- [ ] bee 2554 - Pizza Before BH
+- [X] bee 2554 - Pizza Before BH
 - [ ] bee 2555 - University Quiz
-- [ ] bee 2556 - CEI's Reopening
-- [ ] bee 2557 - R+L=J
+- [X] bee 2556 - CEI's Reopening
+- [X] bee 2557 - R+L=J
 - [ ] bee 2558 - Vacuum Cleaner Robot
 - [ ] bee 2559 - Friday The 13th
 - [ ] bee 2560 - Aquatic Surf
@@ -1568,9 +1568,9 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2564 - Swap It or Not?
 - [ ] bee 2565 - Test Tubes
 - [ ] bee 2566 - Trip to BH
-- [ ] bee 2567 - Virus
+- [X] bee 2567 - Virus
 - [ ] bee 2568 - Actions
-- [ ] bee 2569 - The 7 x 1 Witch
+- [X] bee 2569 - The 7 x 1 Witch
 - [ ] bee 2570 - Californication
 - [ ] bee 2571 - Donor
 - [ ] bee 2572 - Line-up
@@ -1582,61 +1582,61 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2578 - Ontarama Meraini
 - [ ] bee 2579 - Nagol
 - [ ] bee 2580 - Master Pokémon Ho
-- [ ] bee 2581 - I am Toorg!
-- [ ] bee 2582 - System of a Download
+- [X] bee 2581 - I am Toorg!
+- [X] bee 2582 - System of a Download
 - [ ] bee 2583 - Chirrin Chirrion
-- [ ] bee 2584 - Pentagon
+- [X] bee 2584 - Pentagon
 - [ ] bee 2585 - Incomplete dominoes
 - [ ] bee 2586 - Cubenacci
-- [ ] bee 2587 - Jetiqui
+- [X] bee 2587 - Jetiqui
 - [ ] bee 2588 - Game of Palindromes
 - [ ] bee 2589 - The biggest prime gap
-- [ ] bee 2590 - Seven
-- [ ] bee 2591 - HameKameKa
-- [ ] bee 2592 - VaiNaSort
+- [X] bee 2590 - Seven
+- [X] bee 2591 - HameKameKa
+- [X] bee 2592 - VaiNaSort
 - [ ] bee 2593 - Eachians I
 - [ ] bee 2594 - Eachians II
 - [ ] bee 2595 - Cash Roial
-- [ ] bee 2596 - Xenlonguinho
-- [ ] bee 2597 - Xenlongão
-- [ ] bee 2598 - Placing Radars
+- [X] bee 2596 - Xenlonguinho
+- [X] bee 2597 - Xenlongão
+- [X] bee 2598 - Placing Radars
 - [ ] bee 2599 - Counting Radars
-- [ ] bee 2600 - Tustin and His New Die
-- [ ] bee 2601 - Tustin and His Old Die
-- [ ] bee 2602 2602 - Basic Select
-- [ ] bee 2603 2603 - Customer Address
-- [ ] bee 2604 2604 - Under 10 or Greater Than 100
-- [ ] bee 2605 2605 - Executive Representatives
-- [ ] bee 2606 2606 - Categories
-- [ ] bee 2607 2607 - Providers' City in Alphabetical Order
-- [ ] bee 2608 2608 - Higher and Lower Price
-- [ ] bee 2609 2609 - Products by Categories
-- [ ] bee 2610 2610 -Average Value of Products
-- [ ] bee 2611 2611 - Action movies
-- [ ] bee 2612 2612 - The Actors Silva
-- [ ] bee 2613 2613 - Cheap Movies
-- [ ] bee 2614 2614 - September Rentals
-- [ ] bee 2615 2615 - Expanding the Business
-- [ ] bee 2616 2616 - No Rental
-- [ ] bee 2617 2617 - Provider Ajax SA
-- [ ] bee 2618 2618 - Imported Products
-- [ ] bee 2619 2619 - Super Luxury
-- [ ] bee 2620 2620 - Orders in First Half
-- [ ] bee 2621 2621 - Amounts Between 10 and 20
-- [ ] bee 2622 2622 - Legal Person
-- [ ] bee 2623 2623 - Categories with Various Products
-- [ ] bee 2624 2624 - Number of Cities per Customers
-- [ ] bee 2625 2625 - CPF Validation
-- [ ] bee 2626 - JB6 Team
+- [X] bee 2600 - Tustin and His New Die
+- [X] bee 2601 - Tustin and His Old Die
+- [X] bee 2602 2602 - Basic Select
+- [X] bee 2603 2603 - Customer Address
+- [X] bee 2604 2604 - Under 10 or Greater Than 100
+- [X] bee 2605 2605 - Executive Representatives
+- [X] bee 2606 2606 - Categories
+- [X] bee 2607 2607 - Providers' City in Alphabetical Order
+- [X] bee 2608 2608 - Higher and Lower Price
+- [X] bee 2609 2609 - Products by Categories
+- [X] bee 2610 2610 -Average Value of Products
+- [X] bee 2611 2611 - Action movies
+- [X] bee 2612 2612 - The Actors Silva
+- [X] bee 2613 2613 - Cheap Movies
+- [X] bee 2614 2614 - September Rentals
+- [X] bee 2615 2615 - Expanding the Business
+- [X] bee 2616 2616 - No Rental
+- [X] bee 2617 2617 - Provider Ajax SA
+- [X] bee 2618 2618 - Imported Products
+- [X] bee 2619 2619 - Super Luxury
+- [X] bee 2620 2620 - Orders in First Half
+- [X] bee 2621 2621 - Amounts Between 10 and 20
+- [X] bee 2622 2622 - Legal Person
+- [X] bee 2623 2623 - Categories with Various Products
+- [X] bee 2624 2624 - Number of Cities per Customers
+- [X] bee 2625 2625 - CPF Validation
+- [X] bee 2626 - JB6 Team
 - [ ] bee 2627 - Automaton Team
 - [ ] bee 2628 - Treasure Hunt
 - [ ] bee 2629 - Rodoido
-- [ ] bee 2630 - Greyscale
-- [ ] bee 2631 - Making Pairs
-- [ ] bee 2632 - Magic and Sword
-- [ ] bee 2633 - Barbecue at Yuri’s
+- [X] bee 2630 - Greyscale
+- [X] bee 2631 - Making Pairs
+- [X] bee 2632 - Magic and Sword
+- [X] bee 2633 - Barbecue at Yuri’s
 - [ ] bee 2634 - On behalf of the science
-- [ ] URI 2635 - Web Browser
+- [X] URI 2635 - Web Browser
 - [ ] bee 2636 - 3-RSA
 - [ ] bee 2637 - Batera’s House
 - [ ] bee 2638 - Airport Construction
@@ -1647,15 +1647,15 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2643 - Posterize
 - [ ] bee 2644 - Replicate Replicate Rfplicbte
 - [ ] bee 2645 - Scenery
-- [ ] bee 2646 - Secret Chamber at Mount Rushmore
+- [X] bee 2646 - Secret Chamber at Mount Rushmore
 - [ ] bee 2647 - Son of Pipe Stream
 - [ ] bee 2648 - Tarot Sham Boast
 - [ ] bee 2649 - Visual Python++
-- [ ] bee 2650 - Building Walls
-- [ ] bee 2651 - Upset Link
+- [X] bee 2650 - Building Walls
+- [X] bee 2651 - Upset Link
 - [ ] bee 2652 - How Many Trees?
-- [ ] bee 2653 - Dijkstra
-- [ ] bee 2654 - Godofor
+- [X] bee 2653 - Dijkstra
+- [X] bee 2654 - Godofor
 - [ ] bee 2655 - Dangerous Trail
 - [ ] bee 2656 - Rhombus
 - [ ] bee 2657 - Sensate
@@ -1664,14 +1664,14 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2660 - Periodical Cicadas
 - [ ] bee 2661 - Stripped
 - [ ] bee 2662 - Musical Scale
-- [ ] bee 2663 - Phase
+- [X] bee 2663 - Phase
 - [ ] bee 2664 - Gymnastics
 - [ ] bee 2665 - Hyperfield
 - [ ] bee 2666 - Royal Tax
-- [ ] bee 2667 - Mouth Game
+- [X] bee 2667 - Mouth Game
 - [ ] bee 2668 - K-th
 - [ ] bee 2669 - Biotechnology Laboratory
-- [ ] bee 2670 - Coffee Machine
+- [X] bee 2670 - Coffee Machine
 - [ ] bee 2671 - Decoding the Text
 - [ ] bee 2672 - Network Mask
 - [ ] bee 2673 - Serial and Parallel Resistors
@@ -1679,23 +1679,23 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2675 - Steal Pack
 - [ ] bee 2676 - City in the Center
 - [ ] bee 2677 - Even or Odd
-- [ ] bee 2678 - Voice Dialing
-- [ ] bee 2679 - Even Successor
+- [X] bee 2678 - Voice Dialing
+- [X] bee 2679 - Even Successor
 - [ ] bee 2680 - Payroll
 - [ ] bee 2681 - Monkeys at Hanoi Tower
-- [ ] bee 2682 - Fault Detector
+- [X] bee 2682 - Fault Detector
 - [ ] bee 2683 - Design Space
 - [ ] bee 2684 - Help Professor Webscript!!
-- [ ] bee 2685 - The Change
-- [ ] bee 2686 - The Change Continues!!
-- [ ] bee 2687 - Bacterial Domination
+- [X] bee 2685 - The Change
+- [X] bee 2686 - The Change Continues!!
+- [X] bee 2687 - Bacterial Domination
 - [ ] bee 2688 - Choosing a Place
 - [ ] bee 2689 - Game of the Miao
-- [ ] bee 2690 - New password RA
-- [ ] bee 2691 - The Mathematician
-- [ ] bee 2692 - Zoeiro Keyboard
-- [ ] bee 2693 - Van
-- [ ] bee 2694 - Problem with the Calculator
+- [X] bee 2690 - New password RA
+- [X] bee 2691 - The Mathematician
+- [X] bee 2692 - Zoeiro Keyboard
+- [X] bee 2693 - Van
+- [X] bee 2694 - Problem with the Calculator
 - [ ] bee 2695 - Arranging Tiles
 - [ ] bee 2696 - Buggy ICPC
 - [ ] bee 2697 - Complete Naebbirac’s Sequence
@@ -1703,34 +1703,34 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2699 - Enigma
 - [ ] bee 2700 - Fundraising
 - [ ] bee 2701 - Gates of Uncertainty
-- [ ] bee 2702 - Hard Choice
+- [X] bee 2702 - Hard Choice
 - [ ] bee 2703 - Imperial Roads
 - [ ] bee 2704 - Jumping Frog
 - [ ] bee 2705 - Keep It Covered
 - [ ] bee 2706 - Linearville
 - [ ] bee 2707 - Marblecoin
-- [ ] bee 2708 - Tourists in the Huacachina Park
-- [ ] bee 2709 - The Coins of Robbie
+- [X] bee 2708 - Tourists in the Huacachina Park
+- [X] bee 2709 - The Coins of Robbie
 - [ ] bee 2710 - Game of Array
 - [ ] bee 2711 - Unlocking a Cell Phone
-- [ ] bee 2712 - Vehicular Restriction
+- [X] bee 2712 - Vehicular Restriction
 - [ ] bee 2713 - The Wizard is Relentless
-- [ ] bee 2714 - My Temporary Password
-- [ ] bee 2715 - Splitting Assignments I
+- [X] bee 2714 - My Temporary Password
+- [X] bee 2715 - Splitting Assignments I
 - [ ] bee 2716 - Splitting Assignments II
-- [ ] bee 2717 - Elf Time
-- [ ] bee 2718 - Christmas Lights
+- [X] bee 2717 - Elf Time
+- [X] bee 2718 - Christmas Lights
 - [ ] bee 2719 - How many trips will Noel make?
-- [ ] bee 2720 - Large Presents
-- [ ] bee 2721 - Indecision of Reindeers
-- [ ] bee 2722 - Evergreen Trick
+- [X] bee 2720 - Large Presents
+- [X] bee 2721 - Indecision of Reindeers
+- [X] bee 2722 - Evergreen Trick
 - [ ] bee 2723 - Balancing Gifts
-- [ ] bee 2724 - Help Patatatitu
+- [X] bee 2724 - Help Patatatitu
 - [ ] bee 2725 - Christmas Village
 - [ ] bee 2726 - Full Sleigh
-- [ ] bee 2727 - Secret Code
-- [ ] bee 2728 - Grace Hopper, Grandma of Cobol
-- [ ] bee 2729 - Shopping List
+- [X] bee 2727 - Secret Code
+- [X] bee 2728 - Grace Hopper, Grandma of Cobol
+- [X] bee 2729 - Shopping List
 - [ ] bee 2730 - Paired Pairs
 - [ ] bee 2731 - Trip Programming
 - [ ] bee 2732 - Alice's Kingdom
@@ -1738,61 +1738,61 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2734 - Trading Presents
 - [ ] bee 2735 - Nina's Gift
 - [ ] bee 2736 - Avalon Numbers
-- [ ] bee 2737 - Lawyers
-- [ ] bee 2738 - Contest
-- [ ] bee 2739 - Payday
-- [ ] bee 2740 - League
-- [ ] bee 2741 - Students Grades
-- [ ] bee 2742 - Richard's Multiverse
-- [ ] bee 2743 - Number of Characters
-- [ ] bee 2744 - Passwords
-- [ ] bee 2745 - Taxes
-- [ ] bee 2746 - Viruses
-- [ ] bee 2747 - Output 1
-- [ ] bee 2748 - Output 2
-- [ ] bee 2749 - Output 3
-- [ ] bee 2750 - Output 4
-- [ ] bee 2751 - Output 5
-- [ ] bee 2752 - Output 6
-- [ ] bee 2753 - Output 7
-- [ ] bee 2754 - Output 8
-- [ ] bee 2755 - Output 9
-- [ ] bee 2756 - Output 10
-- [ ] bee 2757 - Input and output of integers
-- [ ] bee 2758 - Floating number input and output
-- [ ] bee 2759 - Input and output Character
-- [ ] URI 2760 - String input and output
-- [ ] bee 2761 - Input and output of various types
-- [ ] bee 2762 - Input and output 6
-- [ ] bee 2763 - CPF input and output
-- [ ] bee 2764 - Date input and output
-- [ ] bee 2765 - Coming input and output
-- [ ] bee 2766 - Input and output reading and skipping names
+- [X] bee 2737 - Lawyers
+- [X] bee 2738 - Contest
+- [X] bee 2739 - Payday
+- [X] bee 2740 - League
+- [X] bee 2741 - Students Grades
+- [X] bee 2742 - Richard's Multiverse
+- [X] bee 2743 - Number of Characters
+- [X] bee 2744 - Passwords
+- [X] bee 2745 - Taxes
+- [X] bee 2746 - Viruses
+- [X] bee 2747 - Output 1
+- [X] bee 2748 - Output 2
+- [X] bee 2749 - Output 3
+- [X] bee 2750 - Output 4
+- [X] bee 2751 - Output 5
+- [X] bee 2752 - Output 6
+- [X] bee 2753 - Output 7
+- [X] bee 2754 - Output 8
+- [X] bee 2755 - Output 9
+- [X] bee 2756 - Output 10
+- [X] bee 2757 - Input and output of integers
+- [X] bee 2758 - Floating number input and output
+- [X] bee 2759 - Input and output Character
+- [X] URI 2760 - String input and output
+- [X] bee 2761 - Input and output of various types
+- [X] bee 2762 - Input and output 6
+- [X] bee 2763 - CPF input and output
+- [X] bee 2764 - Date input and output
+- [X] bee 2765 - Coming input and output
+- [X] bee 2766 - Input and output reading and skipping names
 - [ ] bee 2767 - Party
 - [ ] bee 2768 - Dabriel's Graph
 - [ ] bee 2769 - Assembly Line
-- [ ] bee 2770 - Board Size
+- [X] bee 2770 - Board Size
 - [ ] bee 2771 - Average
 - [ ] bee 2772 - Plantation
 - [ ] bee 2773 - Shortest Path
-- [ ] bee 2774 - Sensor Accuracy
+- [X] bee 2774 - Sensor Accuracy
 - [ ] bee 2775 - Preparing Production
 - [ ] bee 2776 - Promotions
 - [ ] bee 2777 - Dabriel's Subsets
 - [ ] bee 2778 - Dabriel's Matrix
-- [ ] bee 2779 - Album of the Cup
-- [ ] bee 2780 - Robot Basketball
+- [X] bee 2779 - Album of the Cup
+- [X] bee 2780 - Robot Basketball
 - [ ] bee 2781 - Compensation Camera
-- [ ] bee 2782 - Stepladder
-- [ ] bee 2783 - Cup Stickers
+- [X] bee 2782 - Stepladder
+- [X] bee 2783 - Cup Stickers
 - [ ] bee 2784 - Islands
 - [ ] bee 2785 - Pyramid
-- [ ] bee 2786 - School Floor
-- [ ] bee 2787 - Chess
+- [X] bee 2786 - School Floor
+- [X] bee 2787 - Chess
 - [ ] bee 2788 - Class
 - [ ] bee 2789 - Water Crisis
 - [ ] bee 2790 - Dices
-- [ ] bee 2791 - Bean
+- [X] bee 2791 - Bean
 - [ ] bee 2792 - Golnaldinho
 - [ ] bee 2793 - HM
 - [ ] bee 2794 - Lighter Mounts
@@ -1803,20 +1803,20 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2799 - Northern Choir
 - [ ] bee 2800 - Playing with Queries
 - [ ] bee 2801 - Affine Cipher
-- [ ] bee 2802 - Dividing Circles
+- [X] bee 2802 - Dividing Circles
 - [ ] bee 2803 - States from the North
 - [ ] bee 2804 - Railways
 - [ ] bee 2805 - Binarizing the matrix
 - [ ] bee 2806 - Typical Ingredients
-- [ ] bee 2807 - Iccanobif
-- [ ] bee 2808 - Knights Again
+- [X] bee 2807 - Iccanobif
+- [X] bee 2808 - Knights Again
 - [ ] bee 2809 - K-th Path
 - [ ] bee 2810 - Dengue 2.0
 - [ ] bee 2811 - Sibi-Xor
-- [ ] bee 2812 - Laércio
-- [ ] bee 2813 - Avoiding Rain
+- [X] bee 2812 - Laércio
+- [X] bee 2813 - Avoiding Rain
 - [ ] bee 2814 - Loud Music
-- [ ] bee 2815 - Stutterer Digitizer
+- [X] bee 2815 - Stutterer Digitizer
 - [ ] bee 2816 - Dabriel's Palindrome
 - [ ] bee 2817 - Darlan's Gas Station
 - [ ] bee 2818 - Funny Game
@@ -1824,13 +1824,13 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2820 - Bruna's Digits
 - [ ] bee 2821 - Cards Distribution
 - [ ] bee 2822 - My First Little Graph
-- [ ] bee 2823 - Eearliest Deadline First
+- [X] bee 2823 - Eearliest Deadline First
 - [ ] bee 2824 - Pudim
 - [ ] bee 2825 - L as in Atreus!?
-- [ ] bee 2826 - Lexical
+- [X] bee 2826 - Lexical
 - [ ] bee 2827 - Tokens Frequency
 - [ ] bee 2828 - Anagrams
-- [ ] bee 2829 - Uppercase, Why?
+- [X] bee 2829 - Uppercase, Why?
 - [ ] 404 Not Found
 - [ ] 404 Not Found
 - [ ] 404 Not Found
@@ -1840,48 +1840,48 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] 404 Not Found
 - [ ] 404 Not Found
 - [ ] bee 2838 - The Infinity Gems
-- [ ] bee 2839 - The Rangel Stockings
-- [ ] bee 2840 - Balloon++
+- [X] bee 2839 - The Rangel Stockings
+- [X] bee 2840 - Balloon++
 - [ ] bee 2841 - Dabriel and Your Party
 - [ ] bee 2842 - Dabriel and Your Strings
 - [ ] bee 2843 - Fast Writing, the Competition
 - [ ] bee 2844 - Fast Writing, the Duel
-- [ ] bee 2845 - Party at the North Pole
-- [ ] bee 2846 - Fibonot
-- [ ] bee 2847 - Paper, Scissors, I Love You!
+- [X] bee 2845 - Party at the North Pole
+- [X] bee 2846 - Fibonot
+- [X] bee 2847 - Paper, Scissors, I Love You!
 - [ ] bee 2848 - Rangel and the Array Game I
 - [ ] bee 2849 - Rangel and the Array Game II
-- [ ] bee 2850 - Polyglot Parrot
+- [X] bee 2850 - Polyglot Parrot
 - [ ] bee 2851 - Rangel's Challenge
-- [ ] bee 2852 - Messaging
+- [X] bee 2852 - Messaging
 - [ ] bee 2853 - Bibika's Inventions
-- [ ] bee 2854 - Family Tree
+- [X] bee 2854 - Family Tree
 - [ ] bee 2855 - Lucky Numbers
 - [ ] bee 2856 - Cheese Bread Trip
 - [ ] bee 2857 - SpeedWagon Flow
 - [ ] bee 2858 - Infinite Board
 - [ ] bee 2859 - Digit Root
 - [ ] bee 2860 - Peace in Spar-Ta
-- [ ] bee 2861 - The Output
-- [ ] bee 2862 - Insect!
-- [ ] bee 2863 - Umil Bolt
+- [X] bee 2861 - The Output
+- [X] bee 2862 - Insect!
+- [X] bee 2863 - Umil Bolt
 - [ ] bee 2864 - How Tall is It?
 - [ ] bee 2865 - Binary Palindrome
-- [ ] bee 2866 - Cryptotext
-- [ ] bee 2867 - Digits
-- [ ] bee 2868 - Wrrrong!
+- [X] bee 2866 - Cryptotext
+- [X] bee 2867 - Digits
+- [X] bee 2868 - Wrrrong!
 - [ ] bee 2869 - Talking about Divisor ...
 - [ ] bee 2870 - Map Game
-- [ ] bee 2871 - Coffee Harvest
-- [ ] bee 2872 - TCP/IP Protocol
+- [X] bee 2871 - Coffee Harvest
+- [X] bee 2872 - TCP/IP Protocol
 - [ ] bee 2873 - Pyramid
-- [ ] bee 2874 - Binary Phrase
-- [ ] bee 2875 - Tunnel Game
+- [X] bee 2874 - Binary Phrase
+- [X] bee 2875 - Tunnel Game
 - [ ] 404 Not Found
 - [ ] 404 Not Found
 - [ ] bee 2878 - Cortador de Pizza
-- [ ] 404 Not Found
-- [ ] 404 Not Found
+- [X] 404 Not Found
+- [X] 404 Not Found
 - [ ] 404 Not Found
 - [ ] bee 2882 - Gasolina
 - [ ] 404 Not Found
@@ -1897,7 +1897,7 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2893 - Fibonac^{k}i
 - [ ] bee 2894 - Virus
 - [ ] bee 2895 - Balance Scales
-- [ ] bee 2896 - Enjoy the Offer
+- [X] bee 2896 - Enjoy the Offer
 - [ ] bee 2897 - Command History
 - [ ] bee 2898 - Olympiads
 - [ ] bee 2899 - Series of Tubes
@@ -1907,7 +1907,7 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2903 - A Symmetrical Pizza
 - [ ] bee 2904 - Building a Field
 - [ ] bee 2905 - Cheap Trips
-- [ ] bee 2906 - Database of Clients
+- [X] bee 2906 - Database of Clients
 - [ ] bee 2907 - Escape, Polygon!
 - [ ] bee 2908 - Fantastic Beasts
 - [ ] bee 2909 - Gathering Red-Black Fruits
@@ -1917,27 +1917,27 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2913 - KryptoLocker Ate my Homework
 - [ ] bee 2914 - Looking for the Risk Factor
 - [ ] bee 2915 - Mount Marathon
-- [ ] bee 2916 - The Note
+- [X] bee 2916 - The Note
 - [ ] bee 2917 - String
 - [ ] bee 2918 - Smart Digits
 - [ ] bee 2919 - Best Order
 - [ ] bee 2920 - Small NUmber
 - [ ] bee 2921 - Alien Charts
-- [ ] bee 2922 - Classrooms
-- [ ] bee 2923 - Birinho
-- [ ] bee 2924 - BigInt
-- [ ] bee 2925 - IccanobiF Sequence
-- [ ] bee 2926 - So This is Christmas!
-- [ ] bee 2927 - Unforeseen at Christmas
-- [ ] bee 2928 - Crossing Lakes
-- [ ] bee 2929enor da Pilha
-- [ ] bee 2930 - Final Thesis of Christmas Depression
+- [X] bee 2922 - Classrooms
+- [X] bee 2923 - Birinho
+- [X] bee 2924 - BigInt
+- [X] bee 2925 - IccanobiF Sequence
+- [X] bee 2926 - So This is Christmas!
+- [X] bee 2927 - Unforeseen at Christmas
+- [X] bee 2928 - Crossing Lakes
+- [X] bee 2929enor da Pilha
+- [X] bee 2930 - Final Thesis of Christmas Depression
 - [ ] bee 2931 - Suspicious Gifts
 - [ ] bee 2932 - Santa's Reindeers
 - [ ] bee 2933 - Earth Sled Tour
 - [ ] bee 2934 - Noel and His Reindeer
 - [ ] bee 2935 - DNA of Elf
-- [ ] bee 2936 - How Much Cassava?
+- [X] bee 2936 - How Much Cassava?
 - [ ] bee 2937 - Snake Norato
 - [ ] bee 2938 - Jaçanã
 - [ ] bee 2939 - Couples
@@ -1950,26 +1950,26 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2946 - Dabriel and the Divisibility
 - [ ] bee 2947 - Correct Answers
 - [ ] bee 2948 - Açaí Planting
-- [ ] bee 2949 - The Fellowship of the Ring
-- [ ] bee 2950 - The Two Towers
-- [ ] bee 2951 - The Return of The King
+- [X] bee 2949 - The Fellowship of the Ring
+- [X] bee 2950 - The Two Towers
+- [X] bee 2951 - The Return of The King
 - [ ] bee 2952 - Sustainable Living
 - [ ] bee 2953 - One More Game
 - [ ] bee 2954 - The Game
 - [ ] bee 2955 - Truuuuuco!
 - [ ] bee 2956 - 13 Variables Derivative
 - [ ] bee 2957 - Lord Grandpa
-- [ ] bee 2958 - The Bad Vibes Walk
-- [ ] bee 2959 - StopAll
+- [X] bee 2958 - The Bad Vibes Walk
+- [X] bee 2959 - StopAll
 - [ ] URI 2960 - Once Upon a Time...
 - [ ] bee 2961 - Too Many Movies!
 - [ ] bee 2962 - Artwork
-- [ ] bee 2963 - Buffoon
+- [X] bee 2963 - Buffoon
 - [ ] URI C - Crossings With Danger
 - [ ] bee 2965 - Denouncing Mafia
 - [ ] bee 2966 - Exhibition of Clownfish
 - [ ] bee 2967 - Forests in Danger
-- [ ] bee 2968 - Hour for a Run
+- [X] bee 2968 - Hour for a Run
 - [ ] bee 2969 - Interplanetary
 - [ ] bee 2970 - Keep Calm and Sell Balloons
 - [ ] bee 2971 - Jar of Water Game
@@ -1983,26 +1983,26 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2979 - Rook
 - [ ] bee 2980 - Tree Game
 - [ ] bee 2981 - We Are Going To Close
-- [ ] bee 2982 - The Strike Stops or Continues?
+- [X] bee 2982 - The Strike Stops or Continues?
 - [ ] bee 2983 - Not Everything is Strike
 - [ ] bee 2984 - Outstanding Issues
 - [ ] bee 2985 - Tobias Against the Clock
-- [ ] bee 2986 - Not Everything is Strike Hard Version
-- [ ] URI H - Balloon of Honor
-- [ ] bee 2988 - Cearense Championship
-- [ ] bee 2989epartments and Divisions
-- [ ] bee 2990mployees CPF
-- [ ] bee 2991epartment Statistics
-- [ ] bee 2992ighest Avarage Salary Divisions
-- [ ] bee 2993 - A Most Frequent
-- [ ] bee 2994 - How Much Earn a Doctor?
-- [ ] bee 2995 - The Sensor Message
-- [ ] bee 2996 - Package Delivery
-- [ ] bee 2997 - Employees Payment
-- [ ] bee 2998 - The Payback
-- [ ] URI 2999 - Highest Division Salary
-- [ ] bee 3000 - Highest Department Salary
-- [ ] URI 3001 - Update sem Where
+- [X] bee 2986 - Not Everything is Strike Hard Version
+- [X] URI H - Balloon of Honor
+- [X] bee 2988 - Cearense Championship
+- [X] bee 2989epartments and Divisions
+- [X] bee 2990mployees CPF
+- [X] bee 2991epartment Statistics
+- [X] bee 2992ighest Avarage Salary Divisions
+- [X] bee 2993 - A Most Frequent
+- [X] bee 2994 - How Much Earn a Doctor?
+- [X] bee 2995 - The Sensor Message
+- [X] bee 2996 - Package Delivery
+- [X] bee 2997 - Employees Payment
+- [X] bee 2998 - The Payback
+- [X] URI 2999 - Highest Division Salary
+- [X] bee 3000 - Highest Department Salary
+- [X] URI 3001 - Update sem Where
 - [ ] bee 3002 - Save Lilly!
 - [ ] bee 3003 - The Little Group
 - [ ] bee 3004 - Envelopes
@@ -2038,46 +2038,46 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 3034 - The Douglas Case
 - [ ] bee 3035 - Piece Factory
 - [ ] bee 3036 - Shirt Color
-- [ ] bee 3037 - Playing darts by distance
-- [ ] bee 3038 - Encrypted Christmas Letter
-- [ ] bee 3039 - Santa's Toys
-- [ ] bee 3040 - The Christmas Tree
+- [X] bee 3037 - Playing darts by distance
+- [X] bee 3038 - Encrypted Christmas Letter
+- [X] bee 3039 - Santa's Toys
+- [X] bee 3040 - The Christmas Tree
 - [ ] bee 3041 - Articles Distribution
 - [ ] bee 3042 - Deflecting from Christmas Trees
 - [ ] bee 3043 - Festa Junina
 - [ ] bee 3044 - Manutenção
 - [ ] bee 3045 - Parque Jurássico
-- [ ] bee 3046 - Dominó
-- [ ] bee 3047 - A idade de Dona Mônica
+- [X] bee 3046 - Dominó
+- [X] bee 3047 - A idade de Dona Mônica
 - [ ] bee 3048 - Sequência Secreta
-- [ ] bee 3049 - Nota Cortada
+- [X] bee 3049 - Nota Cortada
 - [ ] bee 3050 - Distância Entre Amigos
 - [ ] bee 3051 - Soma
 - [ ] bee 3052 - Chuva
-- [ ] bee 3053 - Jogo Dos Copos
+- [X] bee 3053 - Jogo Dos Copos
 - [ ] bee 3054 - Matriz Super-legal
-- [ ] bee 3055 - Nota Esquecida
+- [X] bee 3055 - Nota Esquecida
 - [ ] bee 3056 - Ponto do Meio
 - [ ] bee 3057 - Detetive
-- [ ] bee 3058 - Supermercado
+- [X] bee 3058 - Supermercado
 - [ ] bee 3059 - Pares de Números
-- [ ] bee 3060 - Parcelamento Sem Juros
+- [X] bee 3060 - Parcelamento Sem Juros
 - [ ] bee 3061 - Manchas de Pele
 - [ ] bee 3062 - Coleção de Upas
 - [ ] bee 3063 - Linhas de Ônibus
 - [ ] bee 3064 - Elástico
-- [ ] bee 3065 - Calculando
+- [X] bee 3065 - Calculando
 - [ ] bee 3066 - Dengue
 - [ ] bee 3067 - Dominó
-- [ ] bee 3068 - Meteoros
-- [ ] bee 3069 - Sorvete
+- [X] bee 3068 - Meteoros
+- [X] bee 3069 - Sorvete
 - [ ] bee 3070 - HyperspaceTM Highways
-- [ ] bee 3071 - Best Ranking
+- [X] bee 3071 - Best Ranking
 - [ ] bee 3072 - Dating
 - [ ] bee 3073 - Vectors
 - [ ] bee 3074 - Queries on an Array
-- [ ] bee 3075 - Casinos and Travel
-- [ ] bee 3076 - History Exercise
+- [X] bee 3075 - Casinos and Travel
+- [X] bee 3076 - History Exercise
 - [ ] bee 3077 - Distributing Pequis
 - [ ] bee 3078 - Só o Ouro
 - [ ] bee 3079 - Illuminated Street
@@ -2085,16 +2085,16 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 3081 - Orbit
 - [ ] bee 3082 - Killer Of Mutant Jaguar
 - [ ] bee 3083 - Emreh, Liug And The Strings
-- [ ] bee 3084 - Old Clock
-- [ ] bee 3085 - The Big Day
+- [X] bee 3084 - Old Clock
+- [X] bee 3085 - The Big Day
 - [ ] bee 3086 - The Jedi Knight Guilherme
-- [ ] bee 3087 - The Padawan Jorge
-- [ ] bee 3088 - Text Correction
-- [ ] bee 3089 - Christmas Gifts
-- [ ] bee 3090 - Battlefield
-- [ ] bee 3091 - Rest 1.0
-- [ ] bee 3092 - Guys' Truco 2.0
-- [ ] bee 3093 - Guys' Truco 1.0
+- [X] bee 3087 - The Padawan Jorge
+- [X] bee 3088 - Text Correction
+- [X] bee 3089 - Christmas Gifts
+- [X] bee 3090 - Battlefield
+- [X] bee 3091 - Rest 1.0
+- [X] bee 3092 - Guys' Truco 2.0
+- [X] bee 3093 - Guys' Truco 1.0
 - [ ] bee 3094 - Guys' Truco 3.0
 - [ ] bee 3095 - Warriors' Pudding
 - [ ] bee 3096 - Overflow
@@ -2103,11 +2103,11 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 3099 - The Problem of 7 x 1
 - [ ] bee 3100 - The Lucky Digits
 - [ ] bee 3101 - Polygamous Families
-- [ ] bee 3102 - Kikoho
-- [ ] bee 3103 - Lucky Number
+- [X] bee 3102 - Kikoho
+- [X] bee 3103 - Lucky Number
 - [ ] bee 3104 - Rest 2.0
 - [ ] bee 3105 - Folding Paper
-- [ ] bee 3106 - Coding Competition
+- [X] bee 3106 - Coding Competition
 - [ ] bee 3107 - Frog Jump
 - [ ] bee 3108 - Toss the BigOs!
 - [ ] bee 3109 - Desk Updates
@@ -2118,7 +2118,7 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 3114 - Parkour
 - [ ] bee 3115 - Roads
 - [ ] bee 3116 - Impossible Followers
-- [ ] bee 3117 - Class Dismissed!
+- [X] bee 3117 - Class Dismissed!
 - [ ] bee 3118 - Stop The Bacteria!
 - [ ] bee 3119 - Atomic Gecko Adventures
 - [ ] bee 3120 - Marketing Ploy
@@ -2127,30 +2127,30 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 3123 - Genesis Stones
 - [ ] bee 3124 - Property Friends
 - [ ] bee 3125 - Equation Princess
-- [ ] bee 3126 - Training List
+- [X] bee 3126 - Training List
 - [ ] bee 3127 - Bean Kontest
-- [ ] bee 3128 - Movie Rules
+- [X] bee 3128 - Movie Rules
 - [ ] bee 3129 - Repeated Stickers
 - [ ] bee 3130 - Boxes Everywhere
 - [ ] bee 3131 - Reputation Index
 - [ ] bee 3132 - Alien DNA
 - [ ] bee 3133 - Ship Queue
-- [ ] bee 3134 - Balanced Scale
+- [X] bee 3134 - Balanced Scale
 - [ ] bee 3135 - Name Lists
 - [ ] bee 3136 - Stack Architecture
-- [ ] bee 3137 - Book Pages
+- [X] bee 3137 - Book Pages
 - [ ] bee 3138 - Tobias Birthday
 - [ ] bee 3139 - Seeking New Followers
-- [ ] bee 3140 - Copying and Pasting Code
-- [ ] bee 3141 - Age Doubt
-- [ ] bee 3142 - Excel Bug
+- [X] bee 3140 - Copying and Pasting Code
+- [X] bee 3141 - Age Doubt
+- [X] bee 3142 - Excel Bug
 - [ ] bee 3143 - Escaping the Cell Phone
 - [ ] bee 3144 - G of Graph
-- [ ] bee 3145 - An unexpected Journey
-- [ ] bee 3146 - Riddles in the Dark
-- [ ] bee 3147 - The Battle of the Five Armies
+- [X] bee 3145 - An unexpected Journey
+- [X] bee 3146 - Riddles in the Dark
+- [X] bee 3147 - The Battle of the Five Armies
 - [ ] bee 3148 - The Garden
-- [ ] bee 3149 - The Clover Bride
+- [X] bee 3149 - The Clover Bride
 - [ ] bee 3150 - Rambo's Hideout
 - [ ] bee 3151 - The Divine Yogurt
 - [ ] bee 3152 - Samuel The Coffee Grower
@@ -2158,11 +2158,11 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 3154 - The Big Party
 - [ ] bee 3155 - Socrates and his Questions
 - [ ] bee 3156 - Galactic Chess
-- [ ] bee 3157 - Long Live Science!
+- [X] bee 3157 - Long Live Science!
 - [ ] bee 3158 - The Good President
 - [ ] bee 3159 - Big Brick
 - [ ] bee 3160 - Friends
-- [ ] bee 3161 - The Forgotten Fruits
+- [X] bee 3161 - The Forgotten Fruits
 - [ ] bee 3162 - Space Communication
 - [ ] bee 3163 - Flying Control
 - [ ] bee 3164 - Inspection on Company
@@ -2171,11 +2171,11 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 3167 - Finding Words on Secondary Diagonal
 - [ ] bee 3168 - Gnome's Bet
 - [ ] bee 3169 - Hitting Retreat
-- [ ] bee 3170 - Christmas Balls
+- [X] bee 3170 - Christmas Balls
 - [ ] bee 3171 - String Led
 - [ ] bee 3172 - Dali and Dila
 - [ ] bee 3173 - Christmas Star
-- [ ] bee 3174 - Noel's Work Groups
+- [X] bee 3174 - Noel's Work Groups
 - [ ] bee 3175 - Santa's Gifts
 - [ ] bee 3176 - Gnome's Teams
 - [ ] bee 3177 - Santa's Toy Factory
@@ -2205,17 +2205,17 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 3201 - Traveling Salesman
 - [ ] bee 3202 - Whac-a-Mole
 - [ ] bee 3203 - Random Walking
-- [ ] bee 3204 - Honeycomb Walk
+- [X] bee 3204 - Honeycomb Walk
 - [ ] bee 3205 - Nasty Hacks
 - [ ] bee 3206 - Crashing Robots
 - [ ] bee 3207 - Funny Games
 - [ ] bee 3208 - The Embarrassed Cryptographer
-- [ ] bee 3209 - Electrical Outlets
+- [X] bee 3209 - Electrical Outlets
 - [ ] bee 3210 - Worst Weather Ever
 - [ ] bee 3211 - Kingdom
 - [ ] bee 3212 - Necklace Decomposition
 - [ ] bee 3213 - Playground
-- [ ] bee 3214 - Soda Surpler
+- [X] bee 3214 - Soda Surpler
 - [ ] bee 3215 - Money Matters
 - [ ] bee 3216 - Allergic Test
 - [ ] bee 3217 - Rain Fall
@@ -2225,14 +2225,14 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 3221 - Beacons
 - [ ] bee 3222 - Playfair Cipher
 - [ ] bee 3223 - Code Permutations
-- [ ] bee 3224 - Aaah!
+- [X] bee 3224 - Aaah!
 - [ ] bee 3225 - Bread Sorting
 - [ ] bee 3226 - Cookie Selection
 - [ ] bee 3227 - Doorman
 - [ ] bee 3228 - Eco-driving
 - [ ] bee 3229 - Food Review
 - [ ] bee 3230 - Galactic Warlords
-- [ ] bee 3231 - Horror List
+- [X] bee 3231 - Horror List
 - [ ] bee 3232 - Infiltration
 - [ ] bee 3233 - Juice
 - [ ] bee 3234 - Kindergarten
@@ -2242,7 +2242,7 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 3238 - Borg Boogie
 - [ ] bee 3239 - Dirty Driving
 - [ ] bee 3240 - Doodling
-- [ ] bee 3241 - Help a PhD Candidate Out!
+- [X] bee 3241 - Help a PhD Candidate Out!
 - [ ] bee 3242 - Great Geek Game-show 3000!
 - [ ] bee 3243 - Polyomino Powers
 - [ ] bee 3244 - Statisticians
@@ -2250,15 +2250,15 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 3246 - Around The Track
 - [ ] bee 3247 - Robots on a Grid
 - [ ] bee 3248 - Mega Inversions
-- [ ] bee 3249 - Death Knight Hero
-- [ ] bee 3250 - Elevator Trouble
+- [X] bee 3249 - Death Knight Hero
+- [X] bee 3250 - Elevator Trouble
 - [ ] bee 3251 - ls
 - [ ] bee 3252 - Knigs of the Forest
 - [ ] bee 3253 - Car Trouble
 - [ ] bee 3254 - Private Space
 - [ ] bee 3255 - Prime Time
 - [ ] bee 3256 - Enemy Division
-- [ ] bee 3257 - Planting Trees
+- [X] bee 3257 - Planting Trees
 - [ ] bee 3258 - Boiling Vegetables
 - [ ] bee 3259 - Number Trick
 - [ ] bee 3260 - Robert Hood
@@ -2300,23 +2300,23 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 3296 - Jumbled String
 - [ ] bee 3297 - King’s Colors
 - [ ] bee 3298 - House Lawn
-- [ ] bee 3299 - Small Unlucky Numbers
-- [ ] bee 3300 - Recharged Unlucky Numbers
-- [ ] bee 3301 - Middle Nephew
-- [ ] bee 3302 - Correct Answer
-- [ ] bee 3303 - Big Word
+- [X] bee 3299 - Small Unlucky Numbers
+- [X] bee 3300 - Recharged Unlucky Numbers
+- [X] bee 3301 - Middle Nephew
+- [X] bee 3302 - Correct Answer
+- [X] bee 3303 - Big Word
 - [ ] bee 3304 - Any Luck!
 - [ ] bee 3305 - Dominant Bishops
 - [ ] bee 3306 - Search and Change
-- [ ] bee 3307 - Decorate the Walk!
+- [X] bee 3307 - Decorate the Walk!
 - [ ] bee 3308 - Elevator
-- [ ] bee 3309 - Happy are these Numbers
+- [X] bee 3309 - Happy are these Numbers
 - [ ] bee 3310 - Gravity Boy
-- [ ] bee 3311 - Hudinho and his Work
-- [ ] bee 3312 - Math Beginner
-- [ ] bee 3313 - Wordplay
+- [X] bee 3311 - Hudinho and his Work
+- [X] bee 3312 - Math Beginner
+- [X] bee 3313 - Wordplay
 - [ ] bee 3314 - Konfused, the Hive!
-- [ ] bee 3315 - Computer Language
+- [X] bee 3315 - Computer Language
 - [ ] bee 3316 - Almost Origami
 - [ ] bee 3317 - Beautiful Mountains
 - [ ] bee 3318 - Crisis at the Wedding
@@ -2340,16 +2340,16 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 3336 - Fun Blocks
 - [ ] bee 3337 - Triangles
 - [ ] bee 3338 - Easter Game
-- [ ] bee 3339 - Karina
+- [X] bee 3339 - Karina
 - [ ] bee 3340 - Masters Degree Student
 - [ ] bee 3341 - Dice Grandmaster
-- [ ] bee 3342 - Keanu
-- [ ] bee 3343 - Attack On Gasparini
-- [ ] bee 3344 - Brute
+- [X] bee 3342 - Keanu
+- [X] bee 3343 - Attack On Gasparini
+- [X] bee 3344 - Brute
 - [ ] bee 3345 - Ferdinaccis Hobby
-- [ ] bee 3346 - GDP Fluctuation
+- [X] bee 3346 - GDP Fluctuation
 - [ ] bee 3347 - Ancestry
-- [ ] bee 3348 - Game of Spiders
+- [X] bee 3348 - Game of Spiders
 - [ ] bee 3349 - Armor
 - [ ] bee 3350 - The House of the Seven Women
 - [ ] bee 3351 - Clickbait
@@ -2358,8 +2358,8 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 3354 - Joãozinho Comes to the South
 - [ ] bee 3355 - Chess <em>Pinhões</em>
 - [ ] bee 3356 - Controlled Breeding
-- [ ] bee 3357 - Rich of <i>Chimarrão</i>
-- [ ] bee 3358 - Surname is not Easy
+- [X] bee 3357 - Rich of <i>Chimarrão</i>
+- [X] bee 3358 - Surname is not Easy
 - [ ] beecrowd A - Ancient Towers
 - [ ] beecrowd B - Because, Art!
 - [ ] beecrowd C - Cyclists versus Clouds
@@ -2398,18 +2398,18 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] beecrowd 3394 - Newton’s Apple
 - [ ] beecrowd 3395 - The Euclidian Clock
 - [ ] beecrowd 3396 - Chop Ahoy! Revisited!
-- [ ] beecrowd 3397 - The best of the Multiverse
-- [ ] beecrowd 3398 - Converted Currency
-- [ ] beecrowd 3399 - My name is Nth!
+- [X] beecrowd 3397 - The best of the Multiverse
+- [X] beecrowd 3398 - Converted Currency
+- [X] beecrowd 3399 - My name is Nth!
 - [ ] beecrowd 3400 - Not so secret friend
 - [ ] beecrowd 3401 - Guava Bug Attacks Again
 - [ ] beecrowd 3402 - Shortest Path?
 - [ ] beecrowd 3403 - Bashful
 - [ ] beecrowd 3404 - Strange or Funny
-- [ ] beecrowd 3405 - Factorial
+- [X] beecrowd 3405 - Factorial
 - [ ] beecrowd 3406 - Lincoln's Cats
 - [ ] beecrowd 3407 - Coffee Time
-- [ ] beecrowd 3408 - Ignore the Letters
+- [X] beecrowd 3408 - Ignore the Letters
 - [ ] beecrowd 3409 - Junior, how does your uncle eat?
 - [ ] beecrowd 3410 - Kebra Head
 - [ ] beecrowd 3411 - There goes ink!
@@ -2417,13 +2417,13 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] beecrowd 3413 - A Very Complex Challenge
 - [ ] beecrowd 3414 - Chimambu
 - [ ] beecrowd 3415 - Dictations
-- [ ] beecrowd 3416 - I Want Coooffeee
+- [X] beecrowd 3416 - I Want Coooffeee
 - [ ] beecrowd 3417 - Fraud
 - [ ] beecrowd 3418 - La Chaleur
 - [ ] beecrowd 3419 - Kimi Räikkönen
 - [ ] beecrowd 3420 - House of Cards
 - [ ] beecrowd 3421 - Infinite String of Digits
-- [ ] beecrowd 3422 - John and the Score Sheet
+- [X] beecrowd 3422 - John and the Score Sheet
 - [ ] beecrowd 3423 - Singular Tastes
 - [ ] beecrowd 3424 - Finding Maximal Non-Trivial Monotones
 - [ ] beecrowd 3425 - Fun with Stones
@@ -2433,7 +2433,7 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] beecrowd 3429 - Multidimensional Hangman
 - [ ] beecrowd 3430 - Geometry of Triangles
 - [ ] beecrowd 3431 - Helping the Transit
-- [ ] beecrowd 3432 - Intercepting Information
+- [X] beecrowd 3432 - Intercepting Information
 - [ ] beecrowd 3433 - Playing 23
 - [ ] beecrowd 3434 - Kalel, the Jumping Frog
 - [ ] beecrowd 3435 - Listing Tedious Paths
@@ -2457,7 +2457,7 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] beecrowd 3453 - Carlinhos Loves Problems
 - [ ] beecrowd 3454 - Alice in Noughts and Crosses Wonderland
 - [ ] beecrowd 3455 - National Question Bank
-- [ ] beecrowd 3456 - Divisibility by 7
+- [X] beecrowd 3456 - Divisibility by 7
 - [ ] beecrowd 3457 - Guessing Stones in the Jar
 - [ ] beecrowd 3458 - Protein Manufacturing
 - [ ] beecrowd 3459 - GoldMagikarp
@@ -2474,14 +2474,14 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] beecrowd 3470 - Game of 8
 - [ ] beecrowd 3471 - Kashmir
 - [ ] beecrowd 3472 - Up there on the piano
-- [ ] beecrowd 3473 - Alert the next one!
-- [ ] beecrowd 3474 - Good division
-- [ ] beecrowd 3475 - Converter
+- [X] beecrowd 3473 - Alert the next one!
+- [X] beecrowd 3474 - Good division
+- [X] beecrowd 3475 - Converter
 - [ ] beecrowd 3476 - Unity is strength!
 - [ ] beecrowd 3477 - Damaged Chest
 - [ ] beecrowd 3478 - Geiapan
 - [ ] beecrowd 3479 - Horo and the cups
-- [ ] 3rd SQL Marathon - Adjacent Chairs
-- [ ] 3rd SQL Marathon - Classifying a Tree
-- [ ] 3rd SQL Marathon - Followers
-- [ ] 3rd SQL Marathon - Second Largest and Smallest
+- [X] 3rd SQL Marathon - Adjacent Chairs
+- [X] 3rd SQL Marathon - Classifying a Tree
+- [X] 3rd SQL Marathon - Followers
+- [X] 3rd SQL Marathon - Second Largest and Smallest
