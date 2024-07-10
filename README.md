@@ -2485,3 +2485,4 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [X] 3rd SQL Marathon - Classifying a Tree
 - [X] 3rd SQL Marathon - Followers
 - [X] 3rd SQL Marathon - Second Largest and Smallest
+- [X] beecrowd 3484 - Divided Class
