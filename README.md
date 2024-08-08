@@ -2479,10 +2479,10 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [X] beecrowd 3475 - Converter
 - [ ] beecrowd 3476 - Unity is strength!
 - [ ] beecrowd 3477 - Damaged Chest
-- [ ] beecrowd 3478 - Geiapan
-- [ ] beecrowd 3479 - Horo and the cups
-- [X] 3rd SQL Marathon - Adjacent Chairs
-- [X] 3rd SQL Marathon - Classifying a Tree
-- [X] 3rd SQL Marathon - Followers
-- [X] 3rd SQL Marathon - Second Largest and Smallest
+- [X] beecrowd 3478 - Geiapan
+- [X] beecrowd 3479 - Horo and the cups
+- [X] beecrowd 3480 3rd SQL Marathon - Adjacent Chairs
+- [X] beecrowd 3481 3rd SQL Marathon - Classifying a Tree
+- [X] beecrowd 3482 3rd SQL Marathon - Followers
+- [X] beecrowd 3483 3rd SQL Marathon - Second Largest and Smallest
 - [X] beecrowd 3484 - Divided Class
