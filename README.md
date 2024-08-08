@@ -2172,7 +2172,7 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 3168 - Gnome's Bet
 - [ ] bee 3169 - Hitting Retreat
 - [X] bee 3170 - Christmas Balls
-- [ ] bee 3171 - String Led
+- [X] bee 3171 - String Led
 - [ ] bee 3172 - Dali and Dila
 - [ ] bee 3173 - Christmas Star
 - [X] bee 3174 - Noel's Work Groups
