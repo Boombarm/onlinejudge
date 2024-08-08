@@ -2166,7 +2166,7 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 3162 - Space Communication
 - [ ] bee 3163 - Flying Control
 - [ ] bee 3164 - Inspection on Company
-- [ ] bee 3165 - Twin Prime
+- [X] bee 3165 - Twin Prime
 - [ ] bee 3166 - Finding Words on Main Diagonal
 - [ ] bee 3167 - Finding Words on Secondary Diagonal
 - [ ] bee 3168 - Gnome's Bet
