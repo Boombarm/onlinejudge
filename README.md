@@ -1988,12 +1988,12 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2984 - Outstanding Issues
 - [ ] bee 2985 - Tobias Against the Clock
 - [X] bee 2986 - Not Everything is Strike Hard Version
-- [X] URI H - Balloon of Honor
+- [X] bee 2987 URI H - Balloon of Honor
 - [X] bee 2988 - Cearense Championship
-- [X] bee 2989epartments and Divisions
-- [X] bee 2990mployees CPF
-- [X] bee 2991epartment Statistics
-- [X] bee 2992ighest Avarage Salary Divisions
+- [X] bee 2989 - departments and Divisions
+- [X] bee 2990 - employees CPF
+- [X] bee 2991 - department Statistics
+- [X] bee 2992 - highest Avarage Salary Divisions
 - [X] bee 2993 - A Most Frequent
 - [X] bee 2994 - How Much Earn a Doctor?
 - [X] bee 2995 - The Sensor Message
@@ -2442,7 +2442,7 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] beecrowd 3438 - Energy × Delay Product
 - [ ] beecrowd 3439 - Critical Route
 - [ ] beecrowd 3440 - Friends or Enemies?
-- [ ] A - Title
+- [ ] beecrowd 3441 A - Title
 - [ ] beecrowd 3442 - Asking for Money
 - [ ] beecrowd 3443 - Board Game
 - [ ] beecrowd 3444 - City Folding
