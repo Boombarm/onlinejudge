@@ -1333,8 +1333,8 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] 404 Not Found
 - [ ] bee 2330 - Telemarketing
 - [ ] bee 2331 - Uiquipédia
-- [ ] 404 Not Found
-- [ ] 404 Not Found
+- [ ] bee 2332 - Jogo do Labirinto
+- [ ] bee 2333 - Pizza
 - [X] bee 2334 - Little Ducks
 - [ ] bee 2335 - Arquibaldo's Challenge
 - [ ] bee 2336 - 2336
@@ -1367,9 +1367,9 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2363 - Playing with Transformations
 - [ ] bee 2364 - Henrique
 - [X] bee 2365 - Brazilian Soccer' Big Bet
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
+- [ ] bee 2366 - Maratona
+- [ ] bee 2367 - Competição de Chocolate
+- [ ] bee 2368 - Simulador
 - [X] bee 2369 - Conta de Água
 - [ ] bee 2370 - Times
 - [ ] bee 2371 - Naval Battle
@@ -1377,8 +1377,8 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [X] bee 2373 - Garçom
 - [X] bee 2374 - Tire 
 - [X] bee 2375 - Sedex
-- [X] 404 Not Found
-- [X] 404 Not Found
+- [X] bee 2376 - Copa do Mundo
+- [X] bee 2377 - Pedágio
 - [X] bee 2378 - Elevator
 - [ ] bee 2379 - Dança Indígena
 - [ ] bee 2380 - Fusões
@@ -1390,25 +1390,25 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [X] bee 2386 - Telescópio
 - [ ] bee 2387 - Dentista
 - [X] bee 2388 - Tacógrafo
-- [ ] 404 Not Found
+- [ ] bee 2398 - Floresta
 - [ ] bee 2390 - Escada Rolante
 - [ ] bee 2391 - Progressões Aritméticas
 - [ ] bee 2392 - Pulo do Sapo
 - [ ] bee 2393 - O Mar não está para Peixe
 - [X] bee 2394 - Corrida 1
 - [X] bee 2395 - Transporte de Contêineres
-- [X] 404 Not Found
-- [X] 404 Not Found
-- [ ] 404 Not Found
-- [X] 404 Not Found
+- [X] bee 2396 - Corrida
+- [X] bee 2397 - Triângulos
+- [ ] bee 2398 - Caça ao Tesouro
+- [X] bee 2399 - Campo Minado
 - [ ] bee 2400 - Balé
 - [ ] bee 2401 - Calculadora
 - [ ] bee 2402 - Selos
 - [ ] bee 2403 - Escalonamento Ótimo
 - [ ] bee 2404 - Reduzindo Detalhes em um Mapa
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
+- [ ] bee 2405 - Colorindo
+- [ ] bee 2406 - Expressões
+- [ ] bee 2407 - Quadrado Mágico
 - [X] bee 2408 - Vice-Campeão
 - [ ] bee 2409 - Colchão
 - [X] bee 2410 - Frequencia na Aula
