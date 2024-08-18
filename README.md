@@ -168,7 +168,7 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [X] bee 1164 - Perfect Number
 - [X] bee 1165 - Prime Number
 - [X] bee 1166 - Hanoi Tower Troubles Again!
-- [ ] bee 1167 - Summer Camp
+- [X] bee 1167 - Summer Camp
 - [X] BEE 1168 - LED
 - [X] bee 1169 - Grains in a Chess Board
 - [X] bee 1170 - Blobs
