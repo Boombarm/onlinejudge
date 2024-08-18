@@ -1305,19 +1305,19 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2301 - Vivo ou Morto
 - [ ] bee 2302 - Conversa não tão Secreta
 - [ ] bee 2303 - Margaridas
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
+- [ ] bee 2304 - Banco Imobiliário
+- [ ] bee 2305 - Colheita de Caju
+- [ ] bee 2306 - Escada Perfeita
+- [ ] bee 2307 - Jogo de Cartas
+- [ ] bee 2308 - Museu
+- [ ] bee 2309 - Truco
 - [X] bee 2310 - Volleyball
 - [X] bee 2311 - Diving
 - [X] bee 2312 - Medal Table
 - [X] bee 2313 - Which Triangle
 - [X] bee 2314 - Indenter
 - [X] bee 2315 - Easy Difference Between Dates
-- [ ] 404 Not Found
+- [ ] bee 2316 - Autorama
 - [ ] bee 2317 - Lobo Mau
 - [ ] bee 2318 - Quadrado Mágico
 - [ ] bee 2319 - Penalidade Mínima
