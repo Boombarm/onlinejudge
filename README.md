@@ -120,7 +120,7 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [X] bee 1116 - Dividing X by Y
 - [X] bee 1117 - Score Validation
 - [X] bee 1118 - Several Scores with Validation
-- [ ] bee 1119 - The Dole Queue
+- [X] bee 1119 - The Dole Queue
 - [X] bee 1120 - Contract Revision
 - [X] bee 1121 - Sticker Collector Robots
 - [ ] bee 1122 - Account Book
