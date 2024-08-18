@@ -4,6 +4,10 @@
 # Answer: Accepted
 # Submission: 8/17/24, 10:02:50 PM
 # Runtime: 0.267s
+# note: 
+#       จำลอง list ว่าเป็นวงกลม คำนวนตำแหน่งถัดไปเมื่อเคลื่อนที่ตำแหน่งใน list ตามเข็มนาฬิกา หรือ ทวนเข็มนาฬิกา 
+#       และลบ player ออกจาก list 
+#       จากนั้น update index
 
 
 def find_winner(children):
