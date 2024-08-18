@@ -1286,10 +1286,10 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2282 - Evolution in Parallel
 - [ ] bee 2283 - Keyboarding
 - [ ] bee 2284 - Pipe Stream
-- [ ] 404 Not Found
-- [X] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
+- [ ] bee 2285 - Palíndrome
+- [X] bee 2286 - Par ou Ímpar
+- [ ] bee 2287 - Proteja sua Senha
+- [ ] bee 2288 - TV da Vovó
 - [ ] bee 2289 - Hamming Distance
 - [ ] bee 2290 - Apaixornados Numbers
 - [ ] bee 2291 - Divine Numbers
