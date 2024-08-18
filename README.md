@@ -120,7 +120,7 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [X] bee 1116 - Dividing X by Y
 - [X] bee 1117 - Score Validation
 - [X] bee 1118 - Several Scores with Validation
-- [ ] bee 1119 - The Dole Queue
+- [X] bee 1119 - The Dole Queue
 - [X] bee 1120 - Contract Revision
 - [X] bee 1121 - Sticker Collector Robots
 - [ ] bee 1122 - Account Book
@@ -1286,10 +1286,10 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2282 - Evolution in Parallel
 - [ ] bee 2283 - Keyboarding
 - [ ] bee 2284 - Pipe Stream
-- [ ] 404 Not Found
-- [X] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
+- [ ] bee 2285 - Palíndrome
+- [X] bee 2286 - Par ou Ímpar
+- [ ] bee 2287 - Proteja sua Senha
+- [ ] bee 2288 - TV da Vovó
 - [ ] bee 2289 - Hamming Distance
 - [ ] bee 2290 - Apaixornados Numbers
 - [ ] bee 2291 - Divine Numbers
@@ -1305,36 +1305,36 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2301 - Vivo ou Morto
 - [ ] bee 2302 - Conversa não tão Secreta
 - [ ] bee 2303 - Margaridas
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
+- [ ] bee 2304 - Banco Imobiliário
+- [ ] bee 2305 - Colheita de Caju
+- [ ] bee 2306 - Escada Perfeita
+- [ ] bee 2307 - Jogo de Cartas
+- [ ] bee 2308 - Museu
+- [ ] bee 2309 - Truco
 - [X] bee 2310 - Volleyball
 - [X] bee 2311 - Diving
 - [X] bee 2312 - Medal Table
 - [X] bee 2313 - Which Triangle
 - [X] bee 2314 - Indenter
 - [X] bee 2315 - Easy Difference Between Dates
-- [ ] 404 Not Found
+- [ ] bee 2316 - Autorama
 - [ ] bee 2317 - Lobo Mau
 - [ ] bee 2318 - Quadrado Mágico
 - [ ] bee 2319 - Penalidade Mínima
-- [ ] 404 Not Found
+- [ ] bee 2320 - Subsequência
 - [ ] bee 2321 - Detectando Colisões
 - [X] bee 2322 - Peça Perdida
 - [ ] bee 2323 - Móbile
 - [ ] bee 2324 - Pastas
 - [ ] bee 2325 - Repositórios
 - [ ] bee 2326 - Sacoleiro
-- [ ] 404 Not Found
+- [ ] bee 2327 - Quadrados
 - [X] bee 2328 - Chocolate
-- [ ] 404 Not Found
+- [ ] bee 2329 - Pão a Metro
 - [ ] bee 2330 - Telemarketing
 - [ ] bee 2331 - Uiquipédia
-- [ ] 404 Not Found
-- [ ] 404 Not Found
+- [ ] bee 2332 - Jogo do Labirinto
+- [ ] bee 2333 - Pizza
 - [X] bee 2334 - Little Ducks
 - [ ] bee 2335 - Arquibaldo's Challenge
 - [ ] bee 2336 - 2336
@@ -1367,9 +1367,9 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2363 - Playing with Transformations
 - [ ] bee 2364 - Henrique
 - [X] bee 2365 - Brazilian Soccer' Big Bet
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
+- [ ] bee 2366 - Maratona
+- [ ] bee 2367 - Competição de Chocolate
+- [ ] bee 2368 - Simulador
 - [X] bee 2369 - Conta de Água
 - [ ] bee 2370 - Times
 - [ ] bee 2371 - Naval Battle
@@ -1377,8 +1377,8 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [X] bee 2373 - Garçom
 - [X] bee 2374 - Tire 
 - [X] bee 2375 - Sedex
-- [X] 404 Not Found
-- [X] 404 Not Found
+- [X] bee 2376 - Copa do Mundo
+- [X] bee 2377 - Pedágio
 - [X] bee 2378 - Elevator
 - [ ] bee 2379 - Dança Indígena
 - [ ] bee 2380 - Fusões
@@ -1390,25 +1390,25 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [X] bee 2386 - Telescópio
 - [ ] bee 2387 - Dentista
 - [X] bee 2388 - Tacógrafo
-- [ ] 404 Not Found
+- [ ] bee 2398 - Floresta
 - [ ] bee 2390 - Escada Rolante
 - [ ] bee 2391 - Progressões Aritméticas
 - [ ] bee 2392 - Pulo do Sapo
 - [ ] bee 2393 - O Mar não está para Peixe
 - [X] bee 2394 - Corrida 1
 - [X] bee 2395 - Transporte de Contêineres
-- [X] 404 Not Found
-- [X] 404 Not Found
-- [ ] 404 Not Found
-- [X] 404 Not Found
+- [X] bee 2396 - Corrida
+- [X] bee 2397 - Triângulos
+- [ ] bee 2398 - Caça ao Tesouro
+- [X] bee 2399 - Campo Minado
 - [ ] bee 2400 - Balé
 - [ ] bee 2401 - Calculadora
 - [ ] bee 2402 - Selos
 - [ ] bee 2403 - Escalonamento Ótimo
 - [ ] bee 2404 - Reduzindo Detalhes em um Mapa
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
+- [ ] bee 2405 - Colorindo
+- [ ] bee 2406 - Expressões
+- [ ] bee 2407 - Quadrado Mágico
 - [X] bee 2408 - Vice-Campeão
 - [ ] bee 2409 - Colchão
 - [X] bee 2410 - Frequencia na Aula
@@ -1416,19 +1416,19 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2412 - Tarzan
 - [X] bee 2413 - Busca na Internet
 - [X] bee 2414 - Desafio do Maior Número
-- [X] 404 Not Found
-- [X] 404 Not Found
-- [X] 404 Not Found
-- [X] 404 Not Found
+- [X] bee 2415 - Consecutivos
+- [X] bee 2416 - Corrida
+- [X] bee 2417 - Campeonato
+- [X] bee 2418 - Carnaval 
 - [ ] bee 2419 - Costa
 - [X] bee 2420 - Guerra por Território
 - [ ] bee 2421 - Álbum de Fotos
 - [ ] bee 2422 - Soma das Casas
 - [X] bee 2423 - Receita de Bolo
 - [X] bee 2424 - Tira-teima
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [X] 404 Not Found
+- [ ] bee 2425 - Banco
+- [ ] bee 2426 - Bomba
+- [X] bee 2427 - Chocolate
 - [X] bee 2428 - Capital
 - [ ] bee 2429 - Rodovia
 - [ ] bee 2430 - Catálogo de Músicas
@@ -1436,8 +1436,8 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2432 - Tiro ao Alvo
 - [ ] bee 2433 - Vende-se
 - [X] bee 2434 - Saldo do Vovô
-- [X] 404 Not Found
-- [X] 404 Not Found
+- [X] bee 2435 - Corrida
+- [X] bee 2436 - Robô
 - [X] bee 2437 - Distância de Manhattan
 - [ ] bee 2438 - Quadradinho de 8
 - [ ] bee 2439 - Cachecol da Vovó Vitória
@@ -1446,9 +1446,9 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2442 - Plantação
 - [X] bee 2443 - Soma de Frações
 - [X] bee 2444 - Volume da TV
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
+- [ ] bee 2445 - Polígono
+- [ ] bee 2446 - Troco
+- [ ] bee 2447 - Torneio
 - [ ] bee 2448 - Postman
 - [ ] bee 2449 - Door Lock
 - [ ] bee 2450 - Matrix Ladder
@@ -1458,10 +1458,10 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [X] bee 2454 - Flíper
 - [X] bee 2455 - Gangorra
 - [X] bee 2456 - Cards
-- [X] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
+- [X] bee 2457 - Letras
+- [ ] bee 2458 - Setas
+- [ ] bee 2459 - Copa do Mundo
+- [ ] bee 2460 - Fila
 - [ ] bee 2461 - Bluff
 - [ ] bee 2462 - Flight
 - [ ] bee 2463 - Corredor
@@ -1471,10 +1471,10 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2467 - Frequency
 - [ ] bee 2468 - Map
 - [X] bee 2469 - Grades
-- [ ] 404 Not Found
-- [X] 404 Not Found
-- [X] 404 Not Found
-- [X] 404 Not Found
+- [ ] bee 2470 - Jogo da Memória
+- [X] bee 2471 - Quadrado
+- [X] bee 2472 - Tapetes
+- [X] bee 2473 - Loteria
 - [ ] bee 2474 - Mocking the System
 - [ ] bee 2475 - Manufacture of Presents
 - [ ] bee 2476 - Noel's Deliveries
@@ -1734,7 +1734,7 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2730 - Paired Pairs
 - [ ] bee 2731 - Trip Programming
 - [ ] bee 2732 - Alice's Kingdom
-- [ ] 404 Not Found
+- [ ] bee 2733 - The Reader's Locker
 - [ ] bee 2734 - Trading Presents
 - [ ] bee 2735 - Nina's Gift
 - [ ] bee 2736 - Avalon Numbers
@@ -1831,14 +1831,14 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2827 - Tokens Frequency
 - [ ] bee 2828 - Anagrams
 - [X] bee 2829 - Uppercase, Why?
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
+- [ ] bee 2830 - Copa
+- [ ] not found
+- [ ] bee 2832 - Cápsulas
+- [ ] bee 2833 - Campeonato
+- [ ] bee 2834 - Fuga
+- [ ] bee 2835 - Elevador
+- [ ] bee 2836 - Wifi
+- [ ] bee 2837 - Sequência
 - [ ] bee 2838 - The Infinity Gems
 - [X] bee 2839 - The Rangel Stockings
 - [X] bee 2840 - Balloon++
@@ -1877,19 +1877,19 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2873 - Pyramid
 - [X] bee 2874 - Binary Phrase
 - [X] bee 2875 - Tunnel Game
-- [ ] 404 Not Found
-- [ ] 404 Not Found
+- [ ] bee 2876 - Aventurando-se no Slackline
+- [ ] bee 2877 - Bolinhas de Gude
 - [ ] bee 2878 - Cortador de Pizza
-- [X] 404 Not Found
-- [X] 404 Not Found
-- [ ] 404 Not Found
+- [X] bee 2879 - Desvendando Monty Hall
+- [X] bee 2880 - Enigma
+- [ ] bee 2881 - Festival
 - [ ] bee 2882 - Gasolina
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
-- [ ] 404 Not Found
+- [ ] bee 2883 - Hipótese Policial
+- [ ] bee 2884 - Interruptores
+- [ ] bee 2885 - Juntando Capitais
+- [ ] bee 2886 - Kepler
+- [ ] bee 2887 - Linhas de Metrô
+- [ ] bee 2888 - Modificando SAT
 - [ ] bee 2889 - Tasco Is Always Runner-up!
 - [ ] bee 2890 - Coloring Tetrahedrons
 - [ ] bee 2891 - A Problem With A Happy Ending
