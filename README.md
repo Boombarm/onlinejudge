@@ -799,7 +799,7 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [X] bee 1795 - Trinomial Triangle
 - [X] bee 1796 - Brazilian Economy
 - [ ] bee 1797 - Blasted and Curious
-- [ ] bee 1798 - Pipe Cutting
+- [X] bee 1798 - Pipe Cutting
 - [X] bee 1799 - The Rat in a Maze
 - [X] bee 1800 - Where Are My Keys
 - [ ] bee 1801 - Playing with Numbers
