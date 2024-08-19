@@ -1096,7 +1096,7 @@ Beecrowd Profile: https://www.beecrowd.com.br/judge/en/profile/56315
 - [ ] bee 2092 - Watching the Game
 - [ ] bee 2093 - Escaping from Escaping
 - [ ] bee 2094 - Flowers of Babylon
-- [ ] bee 2095 - War
+- [X] bee 2095 - War
 - [ ] bee 2096 - Horace and His Primes
 - [ ] bee 2097 - Name to Number
 - [ ] bee 2098 - Treasure Island
